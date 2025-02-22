@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"  
-title                    : "Peng's Homepage"
+site_theme               : "default"
+title                    : "Peng Jia's Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
