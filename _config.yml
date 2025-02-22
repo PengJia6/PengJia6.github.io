@@ -23,9 +23,9 @@ repository               : "academicpages/academicpages.github.io"  
 author:
   # Biographic information          
   avatar           : "profile.png"
-  name             : "Peng Jia"    
+  name             : "Peng Jia"
   pronouns         : # example: "she/her"  
-  bio              : "PHD"    
+  bio              : "PHD"
   location         : "Xi'an City, Shaanxi Province, China"
   employer         : "Xi'an Jiaotong University"
   uri              : # URL
