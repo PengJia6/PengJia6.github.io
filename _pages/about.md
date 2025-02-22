@@ -1,8 +1,8 @@
 ---
 permalink: /
-title: "Academic Pages is a rea"
+title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
