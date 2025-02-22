@@ -24,7 +24,7 @@ author:     
   # Biographic information
   avatar           : "profile.png"
   name             : "Peng Jia"
-  pronouns         : "her"   # example: "she/her"  
+  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
   employer         : "Red  University"
