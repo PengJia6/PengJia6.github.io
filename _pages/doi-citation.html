@@ -1,0 +1,60 @@
+ {% capture api_response %}
+  {% raw %}
+    {
+      "status": "ok",
+      "message-type": "work",
+      "message": {
+        "title": "Article Title",
+        "authors": ["Author One", "Author Two"],
+        "publication_year": 2023,
+        "container-title": "Journal Name",
+        "volume": "15",
+        "issue": "3",
+        "page": "45-67"
+      }
+    }
+  {% endraw %}
+{% endcapture %}
+
+{% assign parsed_data = parse_json(api_response) %}
+{% assign authors = parsed_data.message.authors %}
+{% assign title = parsed_data.message.title %}
+{% assign journal = parsed_data.message.container-title %}
+{% assign year = parsed_data.message.publication_year %}
+{% assign volume = parsed_data.message.volume %}
+{% assign issue = parsed_data.message.issue %}
+{% assign page = parsed_data.message.page %}
+
+{% if authors %}
+  {{ authors | join: ", " }}. 
+{% else %}
+  Anonymous. 
+{% endif %}
+
+{% if year %}
+  ({{ year }}). 
+{% else %}
+  ([Year unknown]).
+{% endif %}
+
+{{ title }}.
+
+{% if journal %}
+  {{ journal }}, 
+{% else %}
+  [Unknown journal],
+{% endif %}
+
+{% if volume and issue %}
+  {{ volume }}({{ issue }}), 
+{% elif volume %}
+  {{ volume }}, 
+{% else %}
+  No volume,
+{% endif %}
+
+{% if page %}
+  {{ page }}
+{% else %}
+  [Page range unknown]
+{% endif %}
