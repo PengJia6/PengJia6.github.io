@@ -1,1 +1,8 @@
 
+{% assign dois = ["10.1000/xyz.1234", "10.1109/abc.def.5678"] %}
+
+{% for doi in dois %}
+  {% assign citation = "" %}
+  {% include doi-citation.html %}
+  <p>{{ citation }}</p>
+{% endfor %}
