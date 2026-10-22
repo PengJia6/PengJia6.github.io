@@ -2,13 +2,13 @@
 {% if include.selected_only %}{% assign papers = papers | where: 'selected', true %}{% endif %}
 {% assign current_year = '' %}
 {% for paper in papers %}
-  {% if paper.year != current_year %}
-    {% unless forloop.first %}</ol></section>{% endunless %}
-    <section id="year-{{ paper.year }}" class="publication-year" aria-label="Publications from {{ paper.year }}">
-    <h3 class="publication-year__heading">{{ paper.year }}</h3>
-    <ol class="publication-list">
-    {% assign current_year = paper.year %}
-  {% endif %}
-  {% include publication-entry.html paper=paper %}
-  {% if forloop.last %}</ol></section>{% endif %}
+{% if paper.year != current_year %}
+{% unless forloop.first %}</ol></section>{% endunless %}
+<section id="year-{{ paper.year }}" class="publication-year" aria-label="Publications from {{ paper.year }}">
+<h3 class="publication-year__heading">{{ paper.year }}</h3>
+<ol class="publication-list">
+{% assign current_year = paper.year %}
+{% endif %}
+{% include publication-entry.html paper=paper %}
+{% if forloop.last %}</ol></section>{% endif %}
 {% endfor %}
