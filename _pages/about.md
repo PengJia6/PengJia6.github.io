@@ -9,6 +9,16 @@ redirect_from:
 
 I am Peng Jia (贾鹏), a researcher at the First Affiliated Hospital of Xi'an Jiaotong University, China. My work focuses on computational methods for genome analysis, with interests in microsatellite instability, long-read sequencing, genome assembly, and variant benchmarking.
 
+## Education
+
+- **Sep 2017 – Dec 2023:** Ph.D. in Control Science and Engineering (integrated master's–doctoral program), School of Automation Science and Engineering, Xi'an Jiaotong University.
+- **Sep 2013 – Jun 2017:** Bachelor's degree in Automation, School of Automation, Chongqing University.
+
+## Work Experience
+
+- **Jun 2024 – Present:** Assistant Research Fellow, The First Affiliated Hospital of Xi'an Jiaotong University.
+- **Jun 2024 – Present:** Postdoctoral Researcher in Clinical Medicine, Xi'an Jiaotong University.
+
 ## Research interests
 
 - **Cancer genomics and microsatellite instability:** computational detection of MSI from DNA sequencing and from bulk and single-cell gene expression data.
