@@ -181,6 +181,7 @@ exclude:
   - gulpfile.js
   - LICENSE
   - local
+  - scripts
   - log
   - node_modules
   - package.json*

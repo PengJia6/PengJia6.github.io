@@ -7,12 +7,12 @@
 <em>{{ paper.journal | escape }}</em>. {{ paper.year }}{% if paper.volume != '' %};{{ paper.volume }}{% if paper.issue != '' %}({{ paper.issue }}){% endif %}{% endif %}{% if paper.pages != '' %}:{{ paper.pages | escape }}{% endif %}.
 </p>
 <div class="publication__links">
-<a href="{{ paper.publisher_url | escape }}">Full Text Link</a>
-{% if paper.code_url %}<a class="publication__code" href="{{ paper.code_url | escape }}"><span aria-hidden="true">&lt;/&gt;</span> Code</a>{% endif %}
-<a href="https://doi.org/{{ paper.doi | escape }}">DOI</a>
-{% if paper.pmid %}<a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/">PubMed</a>{% else %}<span class="publication__unavailable">PubMed: not indexed</span>{% endif %}
-<a class="publication__citations" href="{{ paper.scholar_url | escape }}" title="Google Scholar · checked {{ paper.citations_checked }}{% if paper.citation_note %}. {{ paper.citation_note | escape }}{% endif %}">Google Scholar Citations: {% if paper.citations != nil %}{{ paper.citations }}{% else %}not reported{% endif %}</a>
-{% if paper.pmid %}<a class="publication__pubmed-citations" href="https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&amp;from_uid={{ paper.pmid }}" title="NCBI-linked citing articles; coverage may be incomplete. Checked {{ paper.pubmed_citations_checked }}">PubMed Citations: {% if paper.pubmed_citations_status == 'ok' %}{{ paper.pubmed_citations }}{% else %}unavailable{% endif %}</a>{% else %}<span class="publication__unavailable">PubMed Citations: not indexed</span>{% endif %}
+<a class="publication__icon" href="{{ paper.publisher_url | escape }}" title="Full Text Link" aria-label="Full Text Link"><i class="fa-solid fa-file-lines" aria-hidden="true"></i></a>
+{% if paper.code_url %}<a class="publication__icon publication__code" href="{{ paper.code_url | escape }}" title="Code" aria-label="Code"><i class="fa-solid fa-code" aria-hidden="true"></i></a>{% endif %}
+<a class="publication__icon" href="https://doi.org/{{ paper.doi | escape }}" title="DOI" aria-label="DOI"><i class="ai ai-doi" aria-hidden="true"></i></a>
+{% if paper.pmid %}<a class="publication__icon" href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/" title="PubMed" aria-label="PubMed"><i class="ai ai-pubmed" aria-hidden="true"></i></a>{% endif %}
+<a class="publication__icon publication__citations" href="{{ paper.scholar_url | escape }}" aria-label="Google Scholar Citations: {{ paper.citations | default: 'not reported' }}" title="Google Scholar Citations · checked {{ paper.citations_checked }}{% if paper.citation_note %}. {{ paper.citation_note | escape }}{% endif %}"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>{% if paper.citations != nil %}{{ paper.citations }}{% else %}—{% endif %}</span></a>
+{% if paper.pmid %}<a class="publication__icon publication__pubmed-citations" href="https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&amp;from_uid={{ paper.pmid }}" aria-label="PubMed Citations: {{ paper.pubmed_citations | default: 'unavailable' }}" title="PubMed Citations · NCBI-linked citing articles; coverage may be incomplete. Checked {{ paper.pubmed_citations_checked }}"><i class="ai ai-pubmed" aria-hidden="true"></i><span>{% if paper.pubmed_citations_status == 'ok' %}{{ paper.pubmed_citations }}{% else %}—{% endif %}</span></a>{% endif %}
 </div>
 </article>
 </li>
