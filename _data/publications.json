@@ -1,0 +1,1459 @@
+[
+  {
+    "id": "pub-19",
+    "title": "Variant Calling in the Dark Genome: Benchmarking SNV Calls in the Flanks of Structural Variants",
+    "authors": [
+      {
+        "name": "Dang N",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Lin J",
+        "is_self": false
+      },
+      {
+        "name": "Xie Y",
+        "is_self": false
+      },
+      {
+        "name": "Kang Y",
+        "is_self": false
+      },
+      {
+        "name": "Li Z",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      },
+      {
+        "name": "Bush SJ",
+        "is_self": false
+      }
+    ],
+    "date": "2026-04-20",
+    "year": 2026,
+    "journal": "Genomics, Proteomics & Bioinformatics",
+    "volume": "",
+    "issue": "",
+    "pages": "qzag031",
+    "doi": "10.1093/gpbjnl/qzag031",
+    "publisher_url": "https://academic.oup.com/gpb/advance-article-abstract/doi/10.1093/gpbjnl/qzag031/8659545",
+    "pmid": "42010932",
+    "type": "article",
+    "role": "co-first",
+    "selected": true,
+    "role_evidence": "Equal contribution is stated in the publisher author notes; Peng Jia confirmed co-first authorship on 2026-10-22.",
+    "role_source": "https://doi.org/10.1093/gpbjnl/qzag031",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:a0OBvERweLwC",
+    "citations": null,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:42010932%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-8",
+    "title": "Highly accurate ab initio gene annotation with ANNEVO",
+    "authors": [
+      {
+        "name": "Zhang P",
+        "is_self": false
+      },
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Wang S",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Sun P",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Lin J",
+        "is_self": false
+      },
+      {
+        "name": "Wang B",
+        "is_self": false
+      },
+      {
+        "name": "Zhang Y",
+        "is_self": false
+      },
+      {
+        "name": "Meng D",
+        "is_self": false
+      },
+      {
+        "name": "Bush SJ",
+        "is_self": false
+      },
+      {
+        "name": "Ning Z",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2026-04-01",
+    "year": 2026,
+    "journal": "Nature Methods",
+    "volume": "23",
+    "issue": "4",
+    "pages": "740-748",
+    "doi": "10.1038/s41592-026-03036-7",
+    "publisher_url": "https://www.nature.com/articles/s41592-026-03036-7",
+    "pmid": "41820667",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:cFHS6HbyZ2cC",
+    "citations": 29,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41820667%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-20",
+    "title": "MEIsensor: a deep-learning method for mobile element insertion discovery",
+    "authors": [
+      {
+        "name": "Wang Y",
+        "is_self": false
+      },
+      {
+        "name": "Zhang P",
+        "is_self": false
+      },
+      {
+        "name": "Wan S",
+        "is_self": false
+      },
+      {
+        "name": "Zhang Z",
+        "is_self": false
+      },
+      {
+        "name": "Sun P",
+        "is_self": false
+      },
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      }
+    ],
+    "date": "2026-03-27",
+    "year": 2026,
+    "journal": "bioRxiv",
+    "volume": "",
+    "issue": "",
+    "pages": "2026.03.25.714113",
+    "doi": "10.64898/2026.03.25.714113",
+    "publisher_url": "https://www.biorxiv.org/content/10.64898/2026.03.25.714113.abstract",
+    "pmid": null,
+    "type": "preprint",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:yD5IFk8b50cC",
+    "citations": null,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.biorxiv.org/content/10.64898/2026.03.25.714113.abstract"
+  },
+  {
+    "id": "pub-16",
+    "title": "A Telomere-to-telomere Diploid Reference Genome and Centromere Structure of the Chinese Quartet",
+    "authors": [
+      {
+        "name": "Wang B",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Bush SJ",
+        "is_self": false
+      },
+      {
+        "name": "Wang X",
+        "is_self": false
+      },
+      {
+        "name": "Yang Y",
+        "is_self": false
+      },
+      {
+        "name": "Zhang Y",
+        "is_self": false
+      },
+      {
+        "name": "Wan S",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Zhang P",
+        "is_self": false
+      },
+      {
+        "name": "Zheng Y",
+        "is_self": false
+      },
+      {
+        "name": "Shi L",
+        "is_self": false
+      },
+      {
+        "name": "Dong L",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2025-12-01",
+    "year": 2025,
+    "journal": "Genomics, Proteomics & Bioinformatics",
+    "volume": "23",
+    "issue": "6",
+    "pages": "qzaf118",
+    "doi": "10.1093/gpbjnl/qzaf118",
+    "publisher_url": "https://academic.oup.com/gpb/article-abstract/23/6/qzaf118/8343641",
+    "pmid": "41298323",
+    "type": "article",
+    "role": "co-first",
+    "selected": true,
+    "role_evidence": "Peng Jia links to author note qzaf118-FM1: Equal contribution.",
+    "role_source": "https://pmc.ncbi.nlm.nih.gov/PMC13075991/",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:fPk4N6BV_jEC",
+    "citations": 4,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41298323%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-21",
+    "title": "Deciphering Complex Interactions Between LTR Retrotransposons and Three Papaver Species Using LTR_Stream",
+    "authors": [
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Bush SJ",
+        "is_self": false
+      },
+      {
+        "name": "Che Y",
+        "is_self": false
+      },
+      {
+        "name": "Zhao H",
+        "is_self": false
+      },
+      {
+        "name": "Wang T",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Wang S",
+        "is_self": false
+      },
+      {
+        "name": "Sun P",
+        "is_self": false
+      },
+      {
+        "name": "Zhang P",
+        "is_self": false
+      },
+      {
+        "name": "Gao S",
+        "is_self": false
+      },
+      {
+        "name": "Xu Y",
+        "is_self": false
+      },
+      {
+        "name": "Wang C",
+        "is_self": false
+      },
+      {
+        "name": "Dang N",
+        "is_self": false
+      },
+      {
+        "name": "Zhang YE",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2025-08-01",
+    "year": 2025,
+    "journal": "Genomics, Proteomics & Bioinformatics",
+    "volume": "23",
+    "issue": "4",
+    "pages": "qzaf061",
+    "doi": "10.1093/gpbjnl/qzaf061",
+    "publisher_url": "https://doi.org/10.1093/gpbjnl/qzaf061",
+    "pmid": "40685638",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:4OULZ7Gr8RgC",
+    "citations": null,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:40685638%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-11",
+    "title": "STMiner: Gene-centric spatial transcriptomics for deciphering tumor tissues",
+    "authors": [
+      {
+        "name": "Sun P",
+        "is_self": false
+      },
+      {
+        "name": "Bush SJ",
+        "is_self": false
+      },
+      {
+        "name": "Wang S",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Li M",
+        "is_self": false
+      },
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Zhang P",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Wang C",
+        "is_self": false
+      },
+      {
+        "name": "Xu L",
+        "is_self": false
+      },
+      {
+        "name": "Wang T",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2025-02-12",
+    "year": 2025,
+    "journal": "Cell Genomics",
+    "volume": "5",
+    "issue": "2",
+    "pages": "100771",
+    "doi": "10.1016/j.xgen.2025.100771",
+    "publisher_url": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00027-8",
+    "pmid": "39947134",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:u_35RYKgDlwC",
+    "citations": 13,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39947134%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-4",
+    "title": "Long and Accurate: How HiFi Sequencing is Transforming Genomics",
+    "authors": [
+      {
+        "name": "Wang B",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Gao S",
+        "is_self": false
+      },
+      {
+        "name": "Zhao H",
+        "is_self": false
+      },
+      {
+        "name": "Zheng G",
+        "is_self": false
+      },
+      {
+        "name": "Xu L",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2025-02-01",
+    "year": 2025,
+    "journal": "Genomics, Proteomics & Bioinformatics",
+    "volume": "23",
+    "issue": "1",
+    "pages": "qzaf003",
+    "doi": "10.1093/gpbjnl/qzaf003",
+    "publisher_url": "https://academic.oup.com/gpb/article-abstract/23/1/qzaf003/8005231",
+    "pmid": "39918981",
+    "type": "article",
+    "role": "co-first",
+    "selected": true,
+    "role_evidence": "Bo Wang and Peng Jia Equal contribution. (article author notes)",
+    "role_source": "https://pmc.ncbi.nlm.nih.gov/PMC12257948/",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:zA6iFVUQeVQC",
+    "citations": 48,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39918981%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-5",
+    "title": "De novo and somatic structural variant discovery with SVision-pro",
+    "authors": [
+      {
+        "name": "Wang S",
+        "is_self": false
+      },
+      {
+        "name": "Lin J",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Li X",
+        "is_self": false
+      },
+      {
+        "name": "Liu Y",
+        "is_self": false
+      },
+      {
+        "name": "Xu D",
+        "is_self": false
+      },
+      {
+        "name": "Bush SJ",
+        "is_self": false
+      },
+      {
+        "name": "Meng D",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2025-02-01",
+    "year": 2025,
+    "journal": "Nature Biotechnology",
+    "volume": "43",
+    "issue": "2",
+    "pages": "181-185",
+    "doi": "10.1038/s41587-024-02190-7",
+    "publisher_url": "https://www.nature.com/articles/s41587-024-02190-7",
+    "pmid": "38519720",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:rO6llkc54NcC",
+    "citations": 44,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38519720%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-13",
+    "title": "MSIsensor-RNA: Microsatellite Instability Detection for Bulk and Single-cell Gene Expression Data",
+    "authors": [
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Wang T",
+        "is_self": false
+      },
+      {
+        "name": "Xu Y",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2024-06-01",
+    "year": 2024,
+    "journal": "Genomics, Proteomics & Bioinformatics",
+    "volume": "22",
+    "issue": "3",
+    "pages": "qzae004",
+    "doi": "10.1093/gpbjnl/qzae004",
+    "publisher_url": "https://academic.oup.com/gpb/article-abstract/22/3/qzae004/7515254",
+    "pmid": "39341794",
+    "type": "article",
+    "role": "co-first",
+    "selected": true,
+    "role_evidence": "Peng Jia and Xuanhao Yang Equal contribution. (article author notes)",
+    "role_source": "https://pmc.ncbi.nlm.nih.gov/PMC12016039/",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:3s1wT3WcHBgC",
+    "citations": 12,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39341794%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-18",
+    "title": "Pindel-TD: A Tandem Duplication Detector Based on A Pattern Growth Approach",
+    "authors": [
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Zheng G",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Wang S",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2024-02-01",
+    "year": 2024,
+    "journal": "Genomics, Proteomics & Bioinformatics",
+    "volume": "22",
+    "issue": "1",
+    "pages": "qzae008",
+    "doi": "10.1093/gpbjnl/qzae008",
+    "publisher_url": "https://academic.oup.com/gpb/article-abstract/22/1/qzae008/7585463",
+    "pmid": "38862430",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:SeFeTyx0c_EC",
+    "citations": 2,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38862430%20AND%20SRC:MED&format=json",
+    "citation_note": "The linked Scholar profile record retains preprint metadata; its count is shown without combining versions."
+  },
+  {
+    "id": "pub-10",
+    "title": "Haplotype-resolved assemblies and variant benchmark of a Chinese Quartet",
+    "authors": [
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Dong L",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Wang B",
+        "is_self": false
+      },
+      {
+        "name": "Bush SJ",
+        "is_self": false
+      },
+      {
+        "name": "Wang T",
+        "is_self": false
+      },
+      {
+        "name": "Lin J",
+        "is_self": false
+      },
+      {
+        "name": "Wang S",
+        "is_self": false
+      },
+      {
+        "name": "Zhao X",
+        "is_self": false
+      },
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Che Y",
+        "is_self": false
+      },
+      {
+        "name": "Dang N",
+        "is_self": false
+      },
+      {
+        "name": "Ren L",
+        "is_self": false
+      },
+      {
+        "name": "Zhang Y",
+        "is_self": false
+      },
+      {
+        "name": "Wang X",
+        "is_self": false
+      },
+      {
+        "name": "Liang F",
+        "is_self": false
+      },
+      {
+        "name": "Wang Y",
+        "is_self": false
+      },
+      {
+        "name": "Ruan J",
+        "is_self": false
+      },
+      {
+        "name": "Xia H",
+        "is_self": false
+      },
+      {
+        "name": "Zheng Y",
+        "is_self": false
+      },
+      {
+        "name": "Shi L",
+        "is_self": false
+      },
+      {
+        "name": "Lv Y",
+        "is_self": false
+      },
+      {
+        "name": "Wang J",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2023-12-04",
+    "year": 2023,
+    "journal": "Genome Biology",
+    "volume": "24",
+    "issue": "1",
+    "pages": "277",
+    "doi": "10.1186/s13059-023-03116-3",
+    "publisher_url": "https://link.springer.com/article/10.1186/s13059-023-03116-3",
+    "pmid": "38049885",
+    "type": "article",
+    "role": "co-first",
+    "selected": true,
+    "role_evidence": "Peng Jia and Lianhua Dong contributed equally to this work. (publisher author notes)",
+    "role_source": "https://pmc.ncbi.nlm.nih.gov/PMC10694985/",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:5nxA0vEk-isC",
+    "citations": 17,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38049885%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-6",
+    "title": "Quartet DNA reference materials and datasets for comprehensively evaluating germline variant calling performance",
+    "authors": [
+      {
+        "name": "Ren L",
+        "is_self": false
+      },
+      {
+        "name": "Duan X",
+        "is_self": false
+      },
+      {
+        "name": "Dong L",
+        "is_self": false
+      },
+      {
+        "name": "Zhang R",
+        "is_self": false
+      },
+      {
+        "name": "Yang J",
+        "is_self": false
+      },
+      {
+        "name": "Gao Y",
+        "is_self": false
+      },
+      {
+        "name": "Peng R",
+        "is_self": false
+      },
+      {
+        "name": "Hou W",
+        "is_self": false
+      },
+      {
+        "name": "Liu Y",
+        "is_self": false
+      },
+      {
+        "name": "Li J",
+        "is_self": false
+      },
+      {
+        "name": "Yu Y",
+        "is_self": false
+      },
+      {
+        "name": "Zhang N",
+        "is_self": false
+      },
+      {
+        "name": "Shang J",
+        "is_self": false
+      },
+      {
+        "name": "Liang F",
+        "is_self": false
+      },
+      {
+        "name": "Wang D",
+        "is_self": false
+      },
+      {
+        "name": "Chen H",
+        "is_self": false
+      },
+      {
+        "name": "Sun L",
+        "is_self": false
+      },
+      {
+        "name": "Hao L",
+        "is_self": false
+      },
+      {
+        "name": "Quartet Project Team",
+        "is_self": false
+      },
+      {
+        "name": "Scherer A",
+        "is_self": false
+      },
+      {
+        "name": "Nordlund J",
+        "is_self": false
+      },
+      {
+        "name": "Xiao W",
+        "is_self": false
+      },
+      {
+        "name": "Xu J",
+        "is_self": false
+      },
+      {
+        "name": "Tong W",
+        "is_self": false
+      },
+      {
+        "name": "Hu X",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      },
+      {
+        "name": "Li J",
+        "is_self": false
+      },
+      {
+        "name": "Jin L",
+        "is_self": false
+      },
+      {
+        "name": "Hong H",
+        "is_self": false
+      },
+      {
+        "name": "Wang J",
+        "is_self": false
+      },
+      {
+        "name": "Fan S",
+        "is_self": false
+      },
+      {
+        "name": "Fang X",
+        "is_self": false
+      },
+      {
+        "name": "Zheng Y",
+        "is_self": false
+      },
+      {
+        "name": "Shi L",
+        "is_self": false
+      }
+    ],
+    "date": "2023-11-27",
+    "year": 2023,
+    "journal": "Genome Biology",
+    "volume": "24",
+    "issue": "1",
+    "pages": "270",
+    "doi": "10.1186/s13059-023-03109-2",
+    "publisher_url": "https://link.springer.com/article/10.1186/s13059-023-03109-2",
+    "pmid": "38012772",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:KlAtU1dfN6UC",
+    "citations": 39,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38012772%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-7",
+    "title": "Comparison and benchmark of structural variants detected from long read and long-read assembly",
+    "authors": [
+      {
+        "name": "Lin J",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Wang S",
+        "is_self": false
+      },
+      {
+        "name": "Kosters W",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2023-07-01",
+    "year": 2023,
+    "journal": "Briefings in Bioinformatics",
+    "volume": "24",
+    "issue": "4",
+    "pages": "bbad188",
+    "doi": "10.1093/bib/bbad188",
+    "publisher_url": "https://academic.oup.com/bib/article-abstract/24/4/bbad188/7169138",
+    "pmid": "37200087",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:2P1L_qKh6hAC",
+    "citations": 31,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:37200087%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-9",
+    "title": "Haplotype-resolved Chinese male genome assembly based on high-fidelity sequencing",
+    "authors": [
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Zhao X",
+        "is_self": false
+      },
+      {
+        "name": "Qu S",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Wang B",
+        "is_self": false
+      },
+      {
+        "name": "Gao S",
+        "is_self": false
+      },
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Zhang W",
+        "is_self": false
+      },
+      {
+        "name": "Huang J",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2022-11-01",
+    "year": 2022,
+    "journal": "Fundamental Research",
+    "volume": "2",
+    "issue": "6",
+    "pages": "946-953",
+    "doi": "10.1016/j.fmre.2022.02.005",
+    "publisher_url": "https://www.sciencedirect.com/science/article/pii/S2667325822001145",
+    "pmid": "38933383",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:LkGwnXOMwfcC",
+    "citations": 22,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38933383%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-2",
+    "title": "SVision: a deep learning approach to resolve complex structural variants",
+    "authors": [
+      {
+        "name": "Lin J",
+        "is_self": false
+      },
+      {
+        "name": "Wang S",
+        "is_self": false
+      },
+      {
+        "name": "Audano PA",
+        "is_self": false
+      },
+      {
+        "name": "Meng D",
+        "is_self": false
+      },
+      {
+        "name": "Flores JI",
+        "is_self": false
+      },
+      {
+        "name": "Kosters W",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Marschall T",
+        "is_self": false
+      },
+      {
+        "name": "Beck CR",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2022-10-01",
+    "year": 2022,
+    "journal": "Nature Methods",
+    "volume": "19",
+    "issue": "10",
+    "pages": "1230-1233",
+    "doi": "10.1038/s41592-022-01609-w",
+    "publisher_url": "https://www.nature.com/articles/s41592-022-01609-w",
+    "pmid": "36109679",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:kNdYIx-mwKoC",
+    "citations": 113,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:36109679%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-17",
+    "title": "D² Plot, a Matrix of DNA Density and Distance to Periphery, Reveals Functional Genome Regions",
+    "authors": [
+      {
+        "name": "Che Y",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Wang T",
+        "is_self": false
+      },
+      {
+        "name": "Xu D",
+        "is_self": false
+      },
+      {
+        "name": "Guo T",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2022-10-01",
+    "year": 2022,
+    "journal": "Advanced Science",
+    "volume": "9",
+    "issue": "30",
+    "pages": "2202149",
+    "doi": "10.1002/advs.202202149",
+    "publisher_url": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202202149",
+    "pmid": "36039936",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:8k81kl-MbHgC",
+    "citations": 4,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:36039936%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-0",
+    "title": "High-quality Arabidopsis thaliana Genome Assembly with Nanopore and HiFi Long Reads",
+    "authors": [
+      {
+        "name": "Wang B",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Jia Y",
+        "is_self": false
+      },
+      {
+        "name": "Xu Y",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Dang N",
+        "is_self": false
+      },
+      {
+        "name": "Wang S",
+        "is_self": false
+      },
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Zhao X",
+        "is_self": false
+      },
+      {
+        "name": "Gao S",
+        "is_self": false
+      },
+      {
+        "name": "Dong Q",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2022-02-01",
+    "year": 2022,
+    "journal": "Genomics, Proteomics & Bioinformatics",
+    "volume": "20",
+    "issue": "1",
+    "pages": "4-13",
+    "doi": "10.1016/j.gpb.2021.08.003",
+    "publisher_url": "https://academic.oup.com/gpb/article-abstract/20/1/4/7230403",
+    "pmid": "34487862",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:W7OEmFMy1HYC",
+    "citations": 211,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:34487862%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-3",
+    "title": "Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway",
+    "authors": [
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Gao S",
+        "is_self": false
+      },
+      {
+        "name": "Guo L",
+        "is_self": false
+      },
+      {
+        "name": "Wang B",
+        "is_self": false
+      },
+      {
+        "name": "Jia Y",
+        "is_self": false
+      },
+      {
+        "name": "Zhou J",
+        "is_self": false
+      },
+      {
+        "name": "Che Y",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Lin J",
+        "is_self": false
+      },
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Sun J",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2021-10-15",
+    "year": 2021,
+    "journal": "Nature Communications",
+    "volume": "12",
+    "issue": "1",
+    "pages": "6030",
+    "doi": "10.1038/s41467-021-26330-8",
+    "publisher_url": "https://www.nature.com/articles/s41467-021-26330-8",
+    "pmid": "34654815",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:YsMSGLbcyi4C",
+    "citations": 93,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:34654815%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-15",
+    "title": "Transportation, germs, culture: a dynamic graph model of COVID-19 outbreak",
+    "authors": [
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Xu T",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Xia H",
+        "is_self": false
+      },
+      {
+        "name": "Guo L",
+        "is_self": false
+      },
+      {
+        "name": "Zhang L",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2020-09-01",
+    "year": 2020,
+    "journal": "Quantitative Biology",
+    "volume": "8",
+    "issue": "3",
+    "pages": "238-244",
+    "doi": "10.1007/s40484-020-0215-4",
+    "publisher_url": "https://onlinelibrary.wiley.com/doi/abs/10.1007/s40484-020-0215-4",
+    "pmid": "32923014",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:Tyk-4Ss8FVUC",
+    "citations": 10,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32923014%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-1",
+    "title": "MSIsensor-pro: Fast, Accurate, and Matched-normal-sample-free Detection of Microsatellite Instability",
+    "authors": [
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Guo L",
+        "is_self": false
+      },
+      {
+        "name": "Liu B",
+        "is_self": false
+      },
+      {
+        "name": "Lin J",
+        "is_self": false
+      },
+      {
+        "name": "Liang H",
+        "is_self": false
+      },
+      {
+        "name": "Sun J",
+        "is_self": false
+      },
+      {
+        "name": "Zhang C",
+        "is_self": false
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2020-02-01",
+    "year": 2020,
+    "journal": "Genomics, Proteomics & Bioinformatics",
+    "volume": "18",
+    "issue": "1",
+    "pages": "65-71",
+    "doi": "10.1016/j.gpb.2020.02.001",
+    "publisher_url": "https://academic.oup.com/gpb/article-abstract/18/1/65/7229842",
+    "pmid": "32171661",
+    "type": "article",
+    "role": "first",
+    "selected": true,
+    "role_evidence": "First listed author in the published article; no equal-contribution marker on Peng Jia.",
+    "role_source": "https://pmc.ncbi.nlm.nih.gov/PMC7393535/",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:IjCSPb-OGe4C",
+    "citations": 157,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32171661%20AND%20SRC:MED&format=json"
+  },
+  {
+    "id": "pub-12",
+    "title": "MEpurity: estimating tumor purity using DNA methylation data",
+    "authors": [
+      {
+        "name": "Liu B",
+        "is_self": false
+      },
+      {
+        "name": "Yang X",
+        "is_self": false
+      },
+      {
+        "name": "Wang T",
+        "is_self": false
+      },
+      {
+        "name": "Lin J",
+        "is_self": false
+      },
+      {
+        "name": "Kang Y",
+        "is_self": false
+      },
+      {
+        "name": "Jia P",
+        "is_self": true
+      },
+      {
+        "name": "Ye K",
+        "is_self": false
+      }
+    ],
+    "date": "2019-12-15",
+    "year": 2019,
+    "journal": "Bioinformatics",
+    "volume": "35",
+    "issue": "24",
+    "pages": "5298-5300",
+    "doi": "10.1093/bioinformatics/btz555",
+    "publisher_url": "https://academic.oup.com/bioinformatics/article-abstract/35/24/5298/5531131",
+    "pmid": "31297508",
+    "type": "article",
+    "role": "contributor",
+    "selected": false,
+    "role_evidence": "",
+    "role_source": "",
+    "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:zYLM7Y9cAGgC",
+    "citations": 13,
+    "citations_checked": "2026-10-22",
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31297508%20AND%20SRC:MED&format=json"
+  }
+]

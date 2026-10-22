@@ -1,0 +1,23 @@
+.publication-year { margin: 1.75rem 0; }
+.publication-year__heading { border-bottom: 1px solid #d8e0e5; padding-bottom: .5rem; margin-bottom: .8rem; }
+.publication-list { list-style: none; margin: 0; padding: 0; }
+.publication-list .publication { margin: 0 0 1.1rem; padding: .8rem 1rem; border-left: 3px solid #d5dce1; overflow-wrap: anywhere; }
+.publication-list .publication--selected { background: rgba(40, 110, 160, .06); border-radius: 0 6px 6px 0; }
+.publication-list .publication--first { border-left-color: #17689c; }
+.publication-list .publication--co-first { border-left-color: #16826c; }
+.publication-list .publication--corresponding { border-left-color: #95538e; }
+.publication .publication__citation { font-size: .88rem; line-height: 1.75; margin: 0 0 .65rem; }
+.publication__authors { display: block; }
+.publication__title { font-weight: 600; }
+.publication__links { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .85rem; font-size: .72rem; }
+.publication__links a { text-decoration: underline; text-underline-offset: 3px; }
+.publication__badge { display: inline-block; border: 1px solid currentColor; border-radius: 4px; padding: .08rem .4rem; font-size: .65rem; font-weight: 600; }
+.publication__badge--first { color: #17689c; }
+.publication__badge--co-first { color: #16826c; }
+.publication__badge--corresponding { color: #95538e; }
+.publication__unavailable { opacity: .7; }
+.publication .publication__version, .publication-note { font-size: .72rem; line-height: 1.6; margin-top: .55rem; }
+@media (max-width: 600px) {
+  .publication-list .publication { padding: .65rem .7rem; }
+  .publication .publication__citation { font-size: .82rem; }
+}
