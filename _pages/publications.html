@@ -5,4 +5,16 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% include publication-list.html %}
+<div class="publications-layout">
+  <nav class="publication-toc" aria-label="Publication years">
+    <ul>
+    {% assign publication_years = site.data.publications | map: 'year' | uniq | sort | reverse %}
+    {% for year in publication_years %}
+      <li><a href="#year-{{ year }}">{{ year }}</a></li>
+    {% endfor %}
+    </ul>
+  </nav>
+  <div class="publications-content">
+    {% include publication-list.html %}
+  </div>
+</div>

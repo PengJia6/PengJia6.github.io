@@ -7,7 +7,7 @@
       <em>{{ paper.journal | escape }}</em>. {{ paper.year }}{% if paper.volume != '' %};{{ paper.volume }}{% if paper.issue != '' %}({{ paper.issue }}){% endif %}{% endif %}{% if paper.pages != '' %}:{{ paper.pages | escape }}{% endif %}.
     </p>
     <div class="publication__links">
-      <a href="{{ paper.publisher_url | escape }}">{% if paper.type == 'preprint' %}Preprint{% else %}Publisher{% endif %}</a>
+      <a href="{{ paper.publisher_url | escape }}">full text link</a>
       <a href="https://doi.org/{{ paper.doi | escape }}">DOI</a>
       {% if paper.pmid %}<a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/">PubMed</a>{% else %}<span class="publication__unavailable">PubMed: not indexed</span>{% endif %}
       <a class="publication__citations" href="{{ paper.scholar_url | escape }}" title="Google Scholar · checked {{ paper.citations_checked }}{% if paper.citation_note %}. {{ paper.citation_note | escape }}{% endif %}">Scholar citations: {% if paper.citations != nil %}{{ paper.citations }}{% else %}not reported{% endif %}</a>
