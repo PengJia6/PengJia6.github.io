@@ -17,8 +17,6 @@ I am Peng Jia (贾鹏), a researcher at the First Affiliated Hospital of Xi'an J
 
 ## Selected publications
 
-<p class="publication-note">First-author, co-first-author (†), and corresponding-author (*) papers. Citation counts from Google Scholar, checked 22 October 2026.</p>
-
 {% include publication-list.html selected_only=true %}
 
 See [publication details]({{ '/publications/' | relative_url }}) and my [Google Scholar profile](https://scholar.google.com/citations?user=KSYdspwAAAAJ&hl=en) for further work.

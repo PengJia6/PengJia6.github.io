@@ -4,35 +4,35 @@
     "title": "Variant Calling in the Dark Genome: Benchmarking SNV Calls in the Flanks of Structural Variants",
     "authors": [
       {
-        "name": "Dang N",
+        "name": "Ningxin Dang",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Lin J",
+        "name": "Jiadong Lin",
         "is_self": false
       },
       {
-        "name": "Xie Y",
+        "name": "Yutong Xie",
         "is_self": false
       },
       {
-        "name": "Kang Y",
+        "name": "Yongyong Kang",
         "is_self": false
       },
       {
-        "name": "Li Z",
+        "name": "Zixuan Li",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       },
       {
-        "name": "Bush SJ",
+        "name": "Stephen J Bush",
         "is_self": false
       }
     ],
@@ -60,55 +60,55 @@
     "title": "Highly accurate ab initio gene annotation with ANNEVO",
     "authors": [
       {
-        "name": "Zhang P",
+        "name": "Pengyu Zhang",
         "is_self": false
       },
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Wang S",
+        "name": "Songbo Wang",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Sun P",
+        "name": "Peisen Sun",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Lin J",
+        "name": "Jiadong Lin",
         "is_self": false
       },
       {
-        "name": "Wang B",
+        "name": "Bo Wang",
         "is_self": false
       },
       {
-        "name": "Zhang Y",
+        "name": "Yizhe Zhang",
         "is_self": false
       },
       {
-        "name": "Meng D",
+        "name": "Deyu Meng",
         "is_self": false
       },
       {
-        "name": "Bush SJ",
+        "name": "Stephen J Bush",
         "is_self": false
       },
       {
-        "name": "Ning Z",
+        "name": "Zemin Ning",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -136,39 +136,39 @@
     "title": "MEIsensor: a deep-learning method for mobile element insertion discovery",
     "authors": [
       {
-        "name": "Wang Y",
+        "name": "Yudong Wang",
         "is_self": false
       },
       {
-        "name": "Zhang P",
+        "name": "Pengyu Zhang",
         "is_self": false
       },
       {
-        "name": "Wan S",
+        "name": "Shijie Wan",
         "is_self": false
       },
       {
-        "name": "Zhang Z",
+        "name": "Zexin Zhang",
         "is_self": false
       },
       {
-        "name": "Sun P",
+        "name": "Peisen Sun",
         "is_self": false
       },
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       }
     ],
@@ -196,55 +196,55 @@
     "title": "A Telomere-to-telomere Diploid Reference Genome and Centromere Structure of the Chinese Quartet",
     "authors": [
       {
-        "name": "Wang B",
+        "name": "Bo Wang",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Bush SJ",
+        "name": "Stephen J Bush",
         "is_self": false
       },
       {
-        "name": "Wang X",
+        "name": "Xia Wang",
         "is_self": false
       },
       {
-        "name": "Yang Y",
+        "name": "Yi Yang",
         "is_self": false
       },
       {
-        "name": "Zhang Y",
+        "name": "Yu Zhang",
         "is_self": false
       },
       {
-        "name": "Wan S",
+        "name": "Shijie Wan",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Zhang P",
+        "name": "Pengyu Zhang",
         "is_self": false
       },
       {
-        "name": "Zheng Y",
+        "name": "Yuanting Zheng",
         "is_self": false
       },
       {
-        "name": "Shi L",
+        "name": "Leming Shi",
         "is_self": false
       },
       {
-        "name": "Dong L",
+        "name": "Lianhua Dong",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -272,67 +272,67 @@
     "title": "Deciphering Complex Interactions Between LTR Retrotransposons and Three Papaver Species Using LTR_Stream",
     "authors": [
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Bush SJ",
+        "name": "Stephen J Bush",
         "is_self": false
       },
       {
-        "name": "Che Y",
+        "name": "Yizhuo Che",
         "is_self": false
       },
       {
-        "name": "Zhao H",
+        "name": "Huanhuan Zhao",
         "is_self": false
       },
       {
-        "name": "Wang T",
+        "name": "Tingjie Wang",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Wang S",
+        "name": "Songbo Wang",
         "is_self": false
       },
       {
-        "name": "Sun P",
+        "name": "Peisen Sun",
         "is_self": false
       },
       {
-        "name": "Zhang P",
+        "name": "Pengyu Zhang",
         "is_self": false
       },
       {
-        "name": "Gao S",
+        "name": "Shenghan Gao",
         "is_self": false
       },
       {
-        "name": "Xu Y",
+        "name": "Yu Xu",
         "is_self": false
       },
       {
-        "name": "Wang C",
+        "name": "Chengyao Wang",
         "is_self": false
       },
       {
-        "name": "Dang N",
+        "name": "Ningxin Dang",
         "is_self": false
       },
       {
-        "name": "Zhang YE",
+        "name": "Yong E Zhang",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -360,51 +360,51 @@
     "title": "STMiner: Gene-centric spatial transcriptomics for deciphering tumor tissues",
     "authors": [
       {
-        "name": "Sun P",
+        "name": "Peisen Sun",
         "is_self": false
       },
       {
-        "name": "Bush SJ",
+        "name": "Stephen J Bush",
         "is_self": false
       },
       {
-        "name": "Wang S",
+        "name": "Songbo Wang",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Li M",
+        "name": "Mingxuan Li",
         "is_self": false
       },
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Zhang P",
+        "name": "Pengyu Zhang",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Wang C",
+        "name": "Chengyao Wang",
         "is_self": false
       },
       {
-        "name": "Xu L",
+        "name": "Linfeng Xu",
         "is_self": false
       },
       {
-        "name": "Wang T",
+        "name": "Tingjie Wang",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -432,31 +432,31 @@
     "title": "Long and Accurate: How HiFi Sequencing is Transforming Genomics",
     "authors": [
       {
-        "name": "Wang B",
+        "name": "Bo Wang",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Gao S",
+        "name": "Shenghan Gao",
         "is_self": false
       },
       {
-        "name": "Zhao H",
+        "name": "Huanhuan Zhao",
         "is_self": false
       },
       {
-        "name": "Zheng G",
+        "name": "Gaoyang Zheng",
         "is_self": false
       },
       {
-        "name": "Xu L",
+        "name": "Linfeng Xu",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -484,43 +484,43 @@
     "title": "De novo and somatic structural variant discovery with SVision-pro",
     "authors": [
       {
-        "name": "Wang S",
+        "name": "Songbo Wang",
         "is_self": false
       },
       {
-        "name": "Lin J",
+        "name": "Jiadong Lin",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Li X",
+        "name": "Xiujuan Li",
         "is_self": false
       },
       {
-        "name": "Liu Y",
+        "name": "Yuezhuangnan Liu",
         "is_self": false
       },
       {
-        "name": "Xu D",
+        "name": "Dan Xu",
         "is_self": false
       },
       {
-        "name": "Bush SJ",
+        "name": "Stephen J Bush",
         "is_self": false
       },
       {
-        "name": "Meng D",
+        "name": "Deyu Meng",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -548,27 +548,27 @@
     "title": "MSIsensor-RNA: Microsatellite Instability Detection for Bulk and Single-cell Gene Expression Data",
     "authors": [
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Yang X",
+        "name": "Xuanhao Yang",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Wang T",
+        "name": "Tingjie Wang",
         "is_self": false
       },
       {
-        "name": "Xu Y",
+        "name": "Yu Xu",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -596,23 +596,23 @@
     "title": "Pindel-TD: A Tandem Duplication Detector Based on A Pattern Growth Approach",
     "authors": [
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Zheng G",
+        "name": "Gaoyang Zheng",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Wang S",
+        "name": "Songbo Wang",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -641,99 +641,99 @@
     "title": "Haplotype-resolved assemblies and variant benchmark of a Chinese Quartet",
     "authors": [
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Dong L",
+        "name": "Lianhua Dong",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Wang B",
+        "name": "Bo Wang",
         "is_self": false
       },
       {
-        "name": "Bush SJ",
+        "name": "Stephen J Bush",
         "is_self": false
       },
       {
-        "name": "Wang T",
+        "name": "Tingjie Wang",
         "is_self": false
       },
       {
-        "name": "Lin J",
+        "name": "Jiadong Lin",
         "is_self": false
       },
       {
-        "name": "Wang S",
+        "name": "Songbo Wang",
         "is_self": false
       },
       {
-        "name": "Zhao X",
+        "name": "Xixi Zhao",
         "is_self": false
       },
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Che Y",
+        "name": "Yizhuo Che",
         "is_self": false
       },
       {
-        "name": "Dang N",
+        "name": "Ningxin Dang",
         "is_self": false
       },
       {
-        "name": "Ren L",
+        "name": "Luyao Ren",
         "is_self": false
       },
       {
-        "name": "Zhang Y",
+        "name": "Yujing Zhang",
         "is_self": false
       },
       {
-        "name": "Wang X",
+        "name": "Xia Wang",
         "is_self": false
       },
       {
-        "name": "Liang F",
+        "name": "Fan Liang",
         "is_self": false
       },
       {
-        "name": "Wang Y",
+        "name": "Yang Wang",
         "is_self": false
       },
       {
-        "name": "Ruan J",
+        "name": "Jue Ruan",
         "is_self": false
       },
       {
-        "name": "Xia H",
+        "name": "Han Xia",
         "is_self": false
       },
       {
-        "name": "Zheng Y",
+        "name": "Yuanting Zheng",
         "is_self": false
       },
       {
-        "name": "Shi L",
+        "name": "Leming Shi",
         "is_self": false
       },
       {
-        "name": "Lv Y",
+        "name": "Yi Lv",
         "is_self": false
       },
       {
-        "name": "Wang J",
+        "name": "Jing Wang",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -761,75 +761,75 @@
     "title": "Quartet DNA reference materials and datasets for comprehensively evaluating germline variant calling performance",
     "authors": [
       {
-        "name": "Ren L",
+        "name": "Luyao Ren",
         "is_self": false
       },
       {
-        "name": "Duan X",
+        "name": "Xiaoke Duan",
         "is_self": false
       },
       {
-        "name": "Dong L",
+        "name": "Lianhua Dong",
         "is_self": false
       },
       {
-        "name": "Zhang R",
+        "name": "Rui Zhang",
         "is_self": false
       },
       {
-        "name": "Yang J",
+        "name": "Jingcheng Yang",
         "is_self": false
       },
       {
-        "name": "Gao Y",
+        "name": "Yuechen Gao",
         "is_self": false
       },
       {
-        "name": "Peng R",
+        "name": "Rongxue Peng",
         "is_self": false
       },
       {
-        "name": "Hou W",
+        "name": "Wanwan Hou",
         "is_self": false
       },
       {
-        "name": "Liu Y",
+        "name": "Yaqing Liu",
         "is_self": false
       },
       {
-        "name": "Li J",
+        "name": "Jingjing Li",
         "is_self": false
       },
       {
-        "name": "Yu Y",
+        "name": "Ying Yu",
         "is_self": false
       },
       {
-        "name": "Zhang N",
+        "name": "Naixin Zhang",
         "is_self": false
       },
       {
-        "name": "Shang J",
+        "name": "Jun Shang",
         "is_self": false
       },
       {
-        "name": "Liang F",
+        "name": "Fan Liang",
         "is_self": false
       },
       {
-        "name": "Wang D",
+        "name": "Depeng Wang",
         "is_self": false
       },
       {
-        "name": "Chen H",
+        "name": "Hui Chen",
         "is_self": false
       },
       {
-        "name": "Sun L",
+        "name": "Lele Sun",
         "is_self": false
       },
       {
-        "name": "Hao L",
+        "name": "Lingtong Hao",
         "is_self": false
       },
       {
@@ -837,67 +837,67 @@
         "is_self": false
       },
       {
-        "name": "Scherer A",
+        "name": "Andreas Scherer",
         "is_self": false
       },
       {
-        "name": "Nordlund J",
+        "name": "Jessica Nordlund",
         "is_self": false
       },
       {
-        "name": "Xiao W",
+        "name": "Wenming Xiao",
         "is_self": false
       },
       {
-        "name": "Xu J",
+        "name": "Joshua Xu",
         "is_self": false
       },
       {
-        "name": "Tong W",
+        "name": "Weida Tong",
         "is_self": false
       },
       {
-        "name": "Hu X",
+        "name": "Xin Hu",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       },
       {
-        "name": "Li J",
+        "name": "Jinming Li",
         "is_self": false
       },
       {
-        "name": "Jin L",
+        "name": "Li Jin",
         "is_self": false
       },
       {
-        "name": "Hong H",
+        "name": "Huixiao Hong",
         "is_self": false
       },
       {
-        "name": "Wang J",
+        "name": "Jing Wang",
         "is_self": false
       },
       {
-        "name": "Fan S",
+        "name": "Shaohua Fan",
         "is_self": false
       },
       {
-        "name": "Fang X",
+        "name": "Xiang Fang",
         "is_self": false
       },
       {
-        "name": "Zheng Y",
+        "name": "Yuanting Zheng",
         "is_self": false
       },
       {
-        "name": "Shi L",
+        "name": "Leming Shi",
         "is_self": false
       }
     ],
@@ -925,23 +925,23 @@
     "title": "Comparison and benchmark of structural variants detected from long read and long-read assembly",
     "authors": [
       {
-        "name": "Lin J",
+        "name": "Jiadong Lin",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Wang S",
+        "name": "Songbo Wang",
         "is_self": false
       },
       {
-        "name": "Kosters W",
+        "name": "Walter Kosters",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -969,43 +969,43 @@
     "title": "Haplotype-resolved Chinese male genome assembly based on high-fidelity sequencing",
     "authors": [
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Zhao X",
+        "name": "Xixi Zhao",
         "is_self": false
       },
       {
-        "name": "Qu S",
+        "name": "Shoufang Qu",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Wang B",
+        "name": "Bo Wang",
         "is_self": false
       },
       {
-        "name": "Gao S",
+        "name": "Shenghan Gao",
         "is_self": false
       },
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Zhang W",
+        "name": "Wenxin Zhang",
         "is_self": false
       },
       {
-        "name": "Huang J",
+        "name": "Jie Huang",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -1033,47 +1033,47 @@
     "title": "SVision: a deep learning approach to resolve complex structural variants",
     "authors": [
       {
-        "name": "Lin J",
+        "name": "Jiadong Lin",
         "is_self": false
       },
       {
-        "name": "Wang S",
+        "name": "Songbo Wang",
         "is_self": false
       },
       {
-        "name": "Audano PA",
+        "name": "Peter A Audano",
         "is_self": false
       },
       {
-        "name": "Meng D",
+        "name": "Deyu Meng",
         "is_self": false
       },
       {
-        "name": "Flores JI",
+        "name": "Jacob I Flores",
         "is_self": false
       },
       {
-        "name": "Kosters W",
+        "name": "Walter Kosters",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Marschall T",
+        "name": "Tobias Marschall",
         "is_self": false
       },
       {
-        "name": "Beck CR",
+        "name": "Christine R Beck",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -1101,31 +1101,31 @@
     "title": "D² Plot, a Matrix of DNA Density and Distance to Periphery, Reveals Functional Genome Regions",
     "authors": [
       {
-        "name": "Che Y",
+        "name": "Yizhuo Che",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Wang T",
+        "name": "Tingjie Wang",
         "is_self": false
       },
       {
-        "name": "Xu D",
+        "name": "Dan Xu",
         "is_self": false
       },
       {
-        "name": "Guo T",
+        "name": "Tianxue Guo",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -1153,51 +1153,51 @@
     "title": "High-quality Arabidopsis thaliana Genome Assembly with Nanopore and HiFi Long Reads",
     "authors": [
       {
-        "name": "Wang B",
+        "name": "Bo Wang",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Jia Y",
+        "name": "Yanyan Jia",
         "is_self": false
       },
       {
-        "name": "Xu Y",
+        "name": "Yu Xu",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Dang N",
+        "name": "Ningxin Dang",
         "is_self": false
       },
       {
-        "name": "Wang S",
+        "name": "Songbo Wang",
         "is_self": false
       },
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Zhao X",
+        "name": "Xixi Zhao",
         "is_self": false
       },
       {
-        "name": "Gao S",
+        "name": "Shenghan Gao",
         "is_self": false
       },
       {
-        "name": "Dong Q",
+        "name": "Quanbin Dong",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -1225,51 +1225,51 @@
     "title": "Three chromosome-scale Papaver genomes reveal punctuated patchwork evolution of the morphinan and noscapine biosynthesis pathway",
     "authors": [
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Gao S",
+        "name": "Shenghan Gao",
         "is_self": false
       },
       {
-        "name": "Guo L",
+        "name": "Li Guo",
         "is_self": false
       },
       {
-        "name": "Wang B",
+        "name": "Bo Wang",
         "is_self": false
       },
       {
-        "name": "Jia Y",
+        "name": "Yanyan Jia",
         "is_self": false
       },
       {
-        "name": "Zhou J",
+        "name": "Jian Zhou",
         "is_self": false
       },
       {
-        "name": "Che Y",
+        "name": "Yizhuo Che",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Lin J",
+        "name": "Jiadong Lin",
         "is_self": false
       },
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Sun J",
+        "name": "Jianyong Sun",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -1297,31 +1297,31 @@
     "title": "Transportation, germs, culture: a dynamic graph model of COVID-19 outbreak",
     "authors": [
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Xu T",
+        "name": "Tun Xu",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Xia H",
+        "name": "Han Xia",
         "is_self": false
       },
       {
-        "name": "Guo L",
+        "name": "Li Guo",
         "is_self": false
       },
       {
-        "name": "Zhang L",
+        "name": "Lei Zhang",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -1349,39 +1349,39 @@
     "title": "MSIsensor-pro: Fast, Accurate, and Matched-normal-sample-free Detection of Microsatellite Instability",
     "authors": [
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Guo L",
+        "name": "Li Guo",
         "is_self": false
       },
       {
-        "name": "Liu B",
+        "name": "Bowen Liu",
         "is_self": false
       },
       {
-        "name": "Lin J",
+        "name": "Jiadong Lin",
         "is_self": false
       },
       {
-        "name": "Liang H",
+        "name": "Hao Liang",
         "is_self": false
       },
       {
-        "name": "Sun J",
+        "name": "Jianyong Sun",
         "is_self": false
       },
       {
-        "name": "Zhang C",
+        "name": "Chengsheng Zhang",
         "is_self": false
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
@@ -1409,31 +1409,31 @@
     "title": "MEpurity: estimating tumor purity using DNA methylation data",
     "authors": [
       {
-        "name": "Liu B",
+        "name": "Bowen Liu",
         "is_self": false
       },
       {
-        "name": "Yang X",
+        "name": "Xiaofei Yang",
         "is_self": false
       },
       {
-        "name": "Wang T",
+        "name": "Tingjie Wang",
         "is_self": false
       },
       {
-        "name": "Lin J",
+        "name": "Jiadong Lin",
         "is_self": false
       },
       {
-        "name": "Kang Y",
+        "name": "Yongyong Kang",
         "is_self": false
       },
       {
-        "name": "Jia P",
+        "name": "Peng Jia",
         "is_self": true
       },
       {
-        "name": "Ye K",
+        "name": "Kai Ye",
         "is_self": false
       }
     ],
