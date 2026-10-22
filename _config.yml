@@ -12,10 +12,10 @@ site_theme               : "default"
 title                    : "Peng Jia's Homepage"
 title_separator          : "-"
 name                     : &name "Peng Jia"
-description              : &description "personal description"
+description              : &description "Peng Jia | Computational genomics, microsatellite instability, genome assembly and variant benchmarking"
 url                      : https://pengjia6.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "PengJia6/PengJia6.github.io.github.io"
+repository               : "PengJia6/PengJia6.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -25,11 +25,11 @@ author:
   avatar           : "profile.png"
   name             : "Peng Jia"
   pronouns         : # example: "she/her"
-  bio              : "Ph.D., Assistant Professor"
+  bio              : "Ph.D. | Computational Genomics"
   location         : "Xi'an City, Shaanxi Province, China"
-  employer         : "Xi'an Jiaotong University"
+  employer         : "First Affiliated Hospital, Xi'an Jiaotong University"
   uri              : "https://www.xjtu.edu.cn"
-  email            : "pengjia@xjtu.edu.cn/pengjia1110@163.com" 
+  email            : "pengjia@xjtu.edu.cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
