@@ -32,7 +32,8 @@ author:
     - "The First Affiliated Hospital"
     - "Xi'an Jiaotong University"
   uri              : "https://www.xjtu.edu.cn"
-  email            : "pengjia@xjtu.edu.cn"
+  email            :
+  email_display    : "pengjia [at] xjtu [dot] edu [dot] cn"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

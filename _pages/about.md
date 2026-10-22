@@ -25,4 +25,4 @@ See [publication details]({{ '/publications/' | relative_url }}) and my [Google 
 
 [Google Scholar](https://scholar.google.com/citations?user=KSYdspwAAAAJ&hl=en) · [ORCID](https://orcid.org/0000-0002-3429-919X) · [GitHub](https://github.com/PengJia6) · [XJTU faculty profile](https://gr.xjtu.edu.cn/pengjia/zh_CN/zhym/977794/list/index.htm)
 
-Email: [pengjia@xjtu.edu.cn](mailto:pengjia@xjtu.edu.cn)
+Email: {{ site.author.email_display | escape }}
