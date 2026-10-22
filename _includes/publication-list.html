@@ -1,5 +1,12 @@
 {% assign papers = site.data.publications | sort: 'date' | reverse %}
 {% if include.selected_only %}{% assign papers = papers | where: 'selected', true %}{% endif %}
+{% if include.selected_only %}
+<ol class="publication-list">
+{% for paper in papers %}
+{% include publication-entry.html paper=paper %}
+{% endfor %}
+</ol>
+{% else %}
 {% assign current_year = '' %}
 {% for paper in papers %}
 {% if paper.year != current_year %}
@@ -12,3 +19,4 @@
 {% include publication-entry.html paper=paper %}
 {% if forloop.last %}</ol></section>{% endif %}
 {% endfor %}
+{% endif %}

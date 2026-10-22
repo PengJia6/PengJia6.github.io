@@ -32,14 +32,14 @@
       {% endif %} -->
       {% if author.employer and author.uri %}
         <li class="author__desktop">
-          <a href="{{ author.uri }}">
-            <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}
+          <a class="author__employer" href="{{ author.uri }}">
+            <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{% include author-employer.html %}
           </a>
         </li>
       {% else %}
         {% if author.employer %}
-          <li class="author__desktop">
-            <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{{ author.employer }}
+          <li class="author__desktop author__employer">
+            <i class="fas fa-fw fa-building-columns icon-pad-right" aria-hidden="true"></i>{% include author-employer.html %}
           </li>
         {% endif %}
 <!--         {% if author.uri %}

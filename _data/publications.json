@@ -53,7 +53,11 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:a0OBvERweLwC",
     "citations": null,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:42010932%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:42010932%20AND%20SRC:MED&format=json",
+    "pubmed_citations": 0,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=42010932"
   },
   {
     "id": "pub-8",
@@ -129,7 +133,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:cFHS6HbyZ2cC",
     "citations": 29,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41820667%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41820667%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/ANNEVO",
+    "code_source": "https://www.nature.com/articles/s41592-026-03036-7",
+    "pubmed_citations": 11,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=41820667"
   },
   {
     "id": "pub-20",
@@ -189,7 +199,12 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:yD5IFk8b50cC",
     "citations": null,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.biorxiv.org/content/10.64898/2026.03.25.714113.abstract"
+    "metadata_source": "https://www.biorxiv.org/content/10.64898/2026.03.25.714113.abstract",
+    "code_url": "https://github.com/xjtu-omics/MEIsensor",
+    "code_source": "https://github.com/xjtu-omics/MEIsensor",
+    "pubmed_citations": null,
+    "pubmed_citations_status": "not-indexed",
+    "pubmed_citations_checked": "2026-10-22"
   },
   {
     "id": "pub-16",
@@ -265,7 +280,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:fPk4N6BV_jEC",
     "citations": 4,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41298323%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:41298323%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/BoWangXJTU/T2T-CQ",
+    "code_source": "https://academic.oup.com/gpb/article-abstract/23/6/qzaf118/8343641",
+    "pubmed_citations": 2,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=41298323"
   },
   {
     "id": "pub-21",
@@ -353,7 +374,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:4OULZ7Gr8RgC",
     "citations": null,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:40685638%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:40685638%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/LTR_Stream",
+    "code_source": "https://doi.org/10.1093/gpbjnl/qzaf061",
+    "pubmed_citations": 0,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=40685638"
   },
   {
     "id": "pub-11",
@@ -425,7 +452,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:u_35RYKgDlwC",
     "citations": 13,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39947134%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39947134%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/STMiner",
+    "code_source": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00027-8",
+    "pubmed_citations": 6,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=39947134"
   },
   {
     "id": "pub-4",
@@ -477,7 +510,11 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:zA6iFVUQeVQC",
     "citations": 48,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39918981%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39918981%20AND%20SRC:MED&format=json",
+    "pubmed_citations": 19,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=39918981"
   },
   {
     "id": "pub-5",
@@ -541,7 +578,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:rO6llkc54NcC",
     "citations": 44,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38519720%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38519720%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/songbowang125/SVision-pro",
+    "code_source": "https://www.nature.com/articles/s41587-024-02190-7",
+    "pubmed_citations": 18,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38519720"
   },
   {
     "id": "pub-13",
@@ -589,7 +632,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:3s1wT3WcHBgC",
     "citations": 12,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39341794%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39341794%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/msisensor-rna",
+    "code_source": "https://academic.oup.com/gpb/article-abstract/22/3/qzae004/7515254",
+    "pubmed_citations": 6,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=39341794"
   },
   {
     "id": "pub-18",
@@ -634,7 +683,13 @@
     "citations": 2,
     "citations_checked": "2026-10-22",
     "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38862430%20AND%20SRC:MED&format=json",
-    "citation_note": "The linked Scholar profile record retains preprint metadata; its count is shown without combining versions."
+    "citation_note": "The linked Scholar profile record retains preprint metadata; its count is shown without combining versions.",
+    "code_url": "https://github.com/xjtu-omics/pindel",
+    "code_source": "https://academic.oup.com/gpb/article-abstract/22/1/qzae008/7585463",
+    "pubmed_citations": 0,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38862430"
   },
   {
     "id": "pub-10",
@@ -754,7 +809,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:5nxA0vEk-isC",
     "citations": 17,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38049885%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38049885%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/ChineseQuartetGenome",
+    "code_source": "https://link.springer.com/article/10.1186/s13059-023-03116-3",
+    "pubmed_citations": 8,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38049885"
   },
   {
     "id": "pub-6",
@@ -918,7 +979,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:KlAtU1dfN6UC",
     "citations": 39,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38012772%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38012772%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/LuyaoRen/Quartet_DNA",
+    "code_source": "https://link.springer.com/article/10.1186/s13059-023-03109-2",
+    "pubmed_citations": 19,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38012772"
   },
   {
     "id": "pub-7",
@@ -962,7 +1029,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:2P1L_qKh6hAC",
     "citations": 31,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:37200087%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:37200087%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/jiadong324/ComparStra-Parser",
+    "code_source": "https://academic.oup.com/bib/article-abstract/24/4/bbad188/7169138",
+    "pubmed_citations": 12,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=37200087"
   },
   {
     "id": "pub-9",
@@ -1026,7 +1099,11 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:LkGwnXOMwfcC",
     "citations": 22,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38933383%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38933383%20AND%20SRC:MED&format=json",
+    "pubmed_citations": 11,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38933383"
   },
   {
     "id": "pub-2",
@@ -1094,7 +1171,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:kNdYIx-mwKoC",
     "citations": 113,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:36109679%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:36109679%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/SVision",
+    "code_source": "https://www.nature.com/articles/s41592-022-01609-w",
+    "pubmed_citations": 62,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=36109679"
   },
   {
     "id": "pub-17",
@@ -1146,7 +1229,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:8k81kl-MbHgC",
     "citations": 4,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:36039936%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:36039936%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/D2",
+    "code_source": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202202149",
+    "pubmed_citations": 3,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=36039936"
   },
   {
     "id": "pub-0",
@@ -1218,7 +1307,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:W7OEmFMy1HYC",
     "citations": 211,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:34487862%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:34487862%20AND%20SRC:MED&format=json",
+    "code_url": "https://ngdc.cncb.ac.cn/biocode/tools/BT007246",
+    "code_source": "https://academic.oup.com/gpb/article-abstract/20/1/4/7230403",
+    "pubmed_citations": 107,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=34487862"
   },
   {
     "id": "pub-3",
@@ -1290,7 +1385,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:YsMSGLbcyi4C",
     "citations": 93,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:34654815%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:34654815%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/XJTU-YeLab/Papaver-Genomics/tree/main/analysis_scripts",
+    "code_source": "https://www.nature.com/articles/s41467-021-26330-8",
+    "pubmed_citations": 59,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=34654815"
   },
   {
     "id": "pub-15",
@@ -1342,7 +1443,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:Tyk-4Ss8FVUC",
     "citations": 10,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32923014%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32923014%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/2019-nCoV_graph_model",
+    "code_source": "https://onlinelibrary.wiley.com/doi/abs/10.1007/s40484-020-0215-4",
+    "pubmed_citations": 5,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=32923014"
   },
   {
     "id": "pub-1",
@@ -1402,7 +1509,13 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:IjCSPb-OGe4C",
     "citations": 157,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32171661%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:32171661%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/msisensor-pro",
+    "code_source": "https://academic.oup.com/gpb/article-abstract/18/1/65/7229842",
+    "pubmed_citations": 78,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=32171661"
   },
   {
     "id": "pub-12",
@@ -1454,6 +1567,12 @@
     "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=KSYdspwAAAAJ&pagesize=100&citation_for_view=KSYdspwAAAAJ:zYLM7Y9cAGgC",
     "citations": 13,
     "citations_checked": "2026-10-22",
-    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31297508%20AND%20SRC:MED&format=json"
+    "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:31297508%20AND%20SRC:MED&format=json",
+    "code_url": "https://github.com/xjtu-omics/MEpurity",
+    "code_source": "https://academic.oup.com/bioinformatics/article-abstract/35/24/5298/5531131",
+    "pubmed_citations": 6,
+    "pubmed_citations_status": "ok",
+    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=31297508"
   }
 ]

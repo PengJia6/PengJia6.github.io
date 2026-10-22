@@ -27,7 +27,10 @@ author:
   pronouns         : # example: "she/her"
   bio              : "Ph.D. | Computational Genomics"
   location         : "Xi'an City, Shaanxi Province, China"
-  employer         : "First Affiliated Hospital, Xi'an Jiaotong University"
+  employer         : "The First Affiliated Hospital, Xi'an Jiaotong University"
+  employer_lines:
+    - "The First Affiliated Hospital"
+    - "Xi'an Jiaotong University"
   uri              : "https://www.xjtu.edu.cn"
   email            : "pengjia@xjtu.edu.cn"
 

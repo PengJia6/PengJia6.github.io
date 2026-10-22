@@ -1,16 +1,18 @@
 {% assign paper = include.paper %}
 <li class="publication{% if paper.selected %} publication--selected publication--{{ paper.role }}{% endif %}">
-  <article aria-label="{{ paper.title | escape }}">
-    <p class="publication__citation">
-      <span class="publication__authors">{% for author in paper.authors %}{% if author.is_self %}<strong{% if paper.role == "first" %} title="First author"{% endif %}>{{ author.name | escape }}</strong>{% if paper.role == 'co-first' %}<sup title="Co-first author" aria-label="co-first author">†</sup>{% endif %}{% if paper.role == 'corresponding' %}<sup title="Corresponding author" aria-label="corresponding author">*</sup>{% endif %}{% else %}{{ author.name | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}.</span>
-      <a class="publication__title" href="{{ paper.publisher_url | escape }}">{{ paper.title | escape }}</a>.
-      <em>{{ paper.journal | escape }}</em>. {{ paper.year }}{% if paper.volume != '' %};{{ paper.volume }}{% if paper.issue != '' %}({{ paper.issue }}){% endif %}{% endif %}{% if paper.pages != '' %}:{{ paper.pages | escape }}{% endif %}.
-    </p>
-    <div class="publication__links">
-      <a href="{{ paper.publisher_url | escape }}">full text link</a>
-      <a href="https://doi.org/{{ paper.doi | escape }}">DOI</a>
-      {% if paper.pmid %}<a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/">PubMed</a>{% else %}<span class="publication__unavailable">PubMed: not indexed</span>{% endif %}
-      <a class="publication__citations" href="{{ paper.scholar_url | escape }}" title="Google Scholar · checked {{ paper.citations_checked }}{% if paper.citation_note %}. {{ paper.citation_note | escape }}{% endif %}">Scholar citations: {% if paper.citations != nil %}{{ paper.citations }}{% else %}not reported{% endif %}</a>
-    </div>
-  </article>
+<article aria-label="{{ paper.title | escape }}">
+<p class="publication__citation">
+<span class="publication__authors">{% for author in paper.authors %}{% if author.is_self %}<strong{% if paper.role == "first" %} title="First author"{% endif %}>{{ author.name | escape }}</strong>{% if paper.role == 'co-first' %}<sup title="Co-first author" aria-label="co-first author">†</sup>{% endif %}{% if paper.role == 'corresponding' %}<sup title="Corresponding author" aria-label="corresponding author">*</sup>{% endif %}{% else %}{{ author.name | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}.</span>
+<a class="publication__title" href="{{ paper.publisher_url | escape }}">{{ paper.title | escape }}</a>.
+<em>{{ paper.journal | escape }}</em>. {{ paper.year }}{% if paper.volume != '' %};{{ paper.volume }}{% if paper.issue != '' %}({{ paper.issue }}){% endif %}{% endif %}{% if paper.pages != '' %}:{{ paper.pages | escape }}{% endif %}.
+</p>
+<div class="publication__links">
+<a href="{{ paper.publisher_url | escape }}">Full Text Link</a>
+{% if paper.code_url %}<a class="publication__code" href="{{ paper.code_url | escape }}"><span aria-hidden="true">&lt;/&gt;</span> Code</a>{% endif %}
+<a href="https://doi.org/{{ paper.doi | escape }}">DOI</a>
+{% if paper.pmid %}<a href="https://pubmed.ncbi.nlm.nih.gov/{{ paper.pmid }}/">PubMed</a>{% else %}<span class="publication__unavailable">PubMed: not indexed</span>{% endif %}
+<a class="publication__citations" href="{{ paper.scholar_url | escape }}" title="Google Scholar · checked {{ paper.citations_checked }}{% if paper.citation_note %}. {{ paper.citation_note | escape }}{% endif %}">Google Scholar Citations: {% if paper.citations != nil %}{{ paper.citations }}{% else %}not reported{% endif %}</a>
+{% if paper.pmid %}<a class="publication__pubmed-citations" href="https://pubmed.ncbi.nlm.nih.gov/?linkname=pubmed_pubmed_citedin&amp;from_uid={{ paper.pmid }}" title="NCBI-linked citing articles; coverage may be incomplete. Checked {{ paper.pubmed_citations_checked }}">PubMed Citations: {% if paper.pubmed_citations_status == 'ok' %}{{ paper.pubmed_citations }}{% else %}unavailable{% endif %}</a>{% else %}<span class="publication__unavailable">PubMed Citations: not indexed</span>{% endif %}
+</div>
+</article>
 </li>

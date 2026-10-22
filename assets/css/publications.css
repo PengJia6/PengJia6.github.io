@@ -21,6 +21,11 @@
 .publication-list .publication--corresponding { border-left-color: #95538e; }
 .publication .publication__citation { font-size: .88rem; line-height: 1.75; margin: 0 0 .65rem; }
 .publication__authors { display: block; }
+.author__urls .author__employer { display: flex; align-items: baseline; }
+.author__employer > i { flex: 0 0 auto; }
+.author__employer-lines { display: inline-block; }
+.author__employer-lines > span { display: block; }
+.publication__code span { font-family: monospace; font-weight: 700; text-decoration: none; }
 .publication__title { font-weight: 600; }
 .publication__links { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .85rem; font-size: .72rem; }
 .publication__links a { text-decoration: underline; text-underline-offset: 3px; }
