@@ -1,0 +1,41 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+author_profile: true
+---
+
+<div class="research-layout">
+<nav class="research-toc" aria-label="Research topics / 研究方向">
+<h2 data-en="On this page" data-zh="本页目录">On this page</h2>
+<ul>
+{% for topic in site.data.research %}
+<li><a href="#{{ topic.id }}" data-en="{{ topic.nav_en | escape }}" data-zh="{{ topic.nav_zh | escape }}">{{ topic.nav_en | escape }}</a></li>
+{% endfor %}
+</ul>
+</nav>
+<div class="research-content">
+{% for topic in site.data.research %}
+<section class="research-topic" id="{{ topic.id }}" aria-labelledby="{{ topic.id }}-title">
+<h2 id="{{ topic.id }}-title" data-en="{{ topic.title_en | escape }}" data-zh="{{ topic.title_zh | escape }}">{{ topic.title_en | escape }}</h2>
+<p data-en="{{ topic.intro_en | escape }}" data-zh="{{ topic.intro_zh | escape }}">{{ topic.intro_en | escape }}</p>
+{% for project in topic.projects %}
+<article class="research-project">
+<h3 data-en="{{ project.title_en | escape }}" data-zh="{{ project.title_zh | escape }}">{{ project.title_en | escape }}</h3>
+<p data-en="{{ project.description_en | escape }}" data-zh="{{ project.description_zh | escape }}">{{ project.description_en | escape }}</p>
+<h4 data-en="Related publications and resources" data-zh="相关论文与资源">Related publications and resources</h4>
+<ul class="research-resources">
+{% for paper_id in project.paper_ids %}
+{% assign paper = site.data.publications | where: 'id', paper_id | first %}
+<li>
+<a href="{{ paper.publisher_url | escape }}" lang="en">{{ paper.title | escape }}</a><span class="research-resource-year"> ({{ paper.year }})</span>
+{% if paper.code_url %}<a class="research-code" href="{{ paper.code_url | escape }}"><i class="fa-solid fa-code" aria-hidden="true"></i> <span data-en="Code" data-zh="代码">Code</span></a>{% endif %}
+</li>
+{% endfor %}
+</ul>
+</article>
+{% endfor %}
+</section>
+{% endfor %}
+</div>
+</div>

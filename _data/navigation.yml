@@ -5,6 +5,10 @@
 # prevent it from being included in the site.
 
 main:
+  - title: "Research"
+    title_zh: "科学研究"
+    url: /research/
+
   - title: "Publications"
     title_zh: "学术论文"
     url: /publications/

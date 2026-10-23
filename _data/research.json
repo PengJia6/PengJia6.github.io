@@ -1,0 +1,52 @@
+[
+  {
+    "id": "msi",
+    "nav_en": "MSI",
+    "nav_zh": "微卫星不稳定性",
+    "title_en": "Microsatellite Instability (MSI)",
+    "title_zh": "微卫星不稳定性（MSI）",
+    "intro_en": "I develop computational methods for assessing microsatellite instability from DNA sequencing and gene expression data. My work connects DNA-based analysis with bulk and single-cell transcriptomic approaches to study MSI in cancer.",
+    "intro_zh": "我致力于开发基于 DNA 测序和基因表达数据的微卫星不稳定性检测方法，研究涵盖 DNA 层面的分析，以及群体和单细胞转录组层面的 MSI 评估。",
+    "projects": [
+      {
+        "title_en": "MSIsensor-pro · DNA-based MSI detection",
+        "title_zh": "MSIsensor-pro · 基于 DNA 的 MSI 检测",
+        "description_en": "MSIsensor-pro detects MSI from whole-genome, whole-exome, and targeted sequencing data without requiring a matched normal sample. The method models microsatellite variation and selects informative sites for tumor-only analysis.",
+        "description_zh": "MSIsensor-pro 支持全基因组、全外显子组和靶向测序数据，无需配对正常样本即可进行 MSI 检测。该方法通过对微卫星变异进行建模并筛选有效位点，实现仅使用肿瘤样本的分析。",
+        "paper_ids": ["pub-1"]
+      },
+      {
+        "title_en": "MSIsensor-RNA · MSI from gene expression",
+        "title_zh": "MSIsensor-RNA · 基于基因表达的 MSI 检测",
+        "description_en": "MSIsensor-RNA estimates MSI using the expression of MSI-associated genes. It supports bulk and single-cell gene expression data, extending MSI analysis to transcriptomic datasets.",
+        "description_zh": "MSIsensor-RNA 利用 MSI 相关基因的表达信息评估微卫星不稳定性，支持群体和单细胞基因表达数据，将 MSI 分析扩展到转录组数据。",
+        "paper_ids": ["pub-13"]
+      }
+    ]
+  },
+  {
+    "id": "benchmark",
+    "nav_en": "Benchmark",
+    "nav_zh": "变异检测基准评估",
+    "title_en": "Genome and Variant Benchmarking",
+    "title_zh": "基因组与变异检测基准评估",
+    "intro_en": "My benchmarking research focuses on reference genomes, variant benchmark datasets, and the evaluation of variant calling methods. I am particularly interested in haplotype-resolved assemblies and genomic regions where reliable variant detection remains difficult.",
+    "intro_zh": "我的基准评估研究围绕参考基因组、变异基准数据集和变异检测方法的性能评估展开，重点关注单倍型分辨的基因组组装，以及难以可靠检测变异的复杂基因组区域。",
+    "projects": [
+      {
+        "title_en": "Chinese Quartet · Assemblies and reference resources",
+        "title_zh": "Chinese Quartet · 基因组组装与参考资源",
+        "description_en": "The Chinese Quartet work combines haplotype-resolved genome assemblies with variant benchmarks and family-based reference resources. Related work includes a telomere-to-telomere diploid reference genome, providing complementary resources for genome analysis and method evaluation.",
+        "description_zh": "Chinese Quartet 相关研究结合单倍型分辨的基因组组装、变异基准数据集和家系参考资源，并进一步构建端粒到端粒的二倍体参考基因组，为基因组分析和方法评估提供互补资源。",
+        "paper_ids": ["pub-16", "pub-10", "pub-6"]
+      },
+      {
+        "title_en": "Challenging regions · Evaluating variant calls",
+        "title_zh": "复杂基因组区域 · 变异检测评估",
+        "description_en": "This work examines SNV calling in the flanks of structural variants and compares structural variant detection from long reads and long-read assemblies. The aim is to understand how genomic context and analysis strategy affect variant calling performance.",
+        "description_zh": "这一方向关注结构变异侧翼区域的单核苷酸变异（SNV）检测，以及基于长读长与长读长组装的结构变异检测方法比较，旨在理解基因组背景和分析策略对变异检测性能的影响。",
+        "paper_ids": ["pub-19", "pub-7"]
+      }
+    ]
+  }
+]

@@ -31,7 +31,7 @@
     window.dispatchEvent(new Event('resize'));
   }
   document.addEventListener('DOMContentLoaded', function () {
-    var titles = { 'About me': '关于我', 'Publications': '学术论文', 'Blog posts': '博客', 'Blog Posts': '博客' };
+    var titles = { 'About me': '关于我', 'Research': '科学研究', 'Publications': '学术论文', 'Blog posts': '博客', 'Blog Posts': '博客' };
     document.querySelectorAll('.page__title').forEach(function (title) {
       var english = title.textContent.trim();
       if (titles[english]) {
