@@ -6,6 +6,7 @@
 
 main:
   - title: "Publications"
+    title_zh: "学术论文"
     url: /publications/
 
   # - title: "Talks"                  
@@ -18,6 +19,7 @@ main:
   #   url: /portfolio/
         
   - title: "Blog Posts"
+    title_zh: "博客"
     url: /year-archive/
     
   # - title: "CV"

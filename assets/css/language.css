@@ -1,0 +1,9 @@
+html[data-language="zh"] [data-language-content="en"],
+html:not([data-language="zh"]) [data-language-content="zh"] { display: none; }
+.masthead__menu { display: flex; align-items: center; gap: 1rem; }
+.masthead__menu .greedy-nav { flex: 1; min-width: 0; }
+.language-switch { display: flex; align-items: center; gap: .35rem; flex-shrink: 0; }
+.language-switch button { border: 0; background: transparent; color: var(--global-text-color); font: inherit; padding: .3rem .2rem; cursor: pointer; }
+.language-switch button[aria-pressed="true"] { color: var(--global-link-color); font-weight: 700; text-decoration: underline; text-underline-offset: .25em; }
+.language-switch button:focus-visible { outline: 2px solid currentColor; outline-offset: 2px; }
+@media (max-width: 480px) { .masthead__menu { gap: .35rem; } .language-switch { font-size: .85rem; } .masthead__menu-item--lg { padding-right: .5em; } }

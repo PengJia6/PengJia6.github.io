@@ -26,7 +26,9 @@ author:
   name             : "Peng Jia"
   pronouns         : # example: "she/her"
   bio              : "Ph.D. | Computational Genomics"
+  bio_zh           : "博士 | 计算基因组学"
   location         : "Xi'an City, Shaanxi Province, China"
+  location_zh      : "中国 · 陕西 · 西安"
   employer         : "The First Affiliated Hospital, Xi'an Jiaotong University"
   employer_lines:
     - "The First Affiliated Hospital"
