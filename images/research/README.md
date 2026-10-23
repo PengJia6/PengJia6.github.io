@@ -24,4 +24,4 @@ Both images are reproduced unchanged from the original articles. Display size is
 - Copyright: © The Author(s) 2023.
 - License: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
-Licenses and figure numbers were verified against the article full-text XML from Europe PMC on 2026-10-23. The visible page includes linked attribution, the license, and English/Chinese captions and alternative text. Text inside the original figures remains in English.
+Licenses and figure numbers were verified against the article full-text XML from Europe PMC on 2026-10-23. Attribution and license links are available through the small expandable information control on each image. Alternative text is provided in English and Chinese; no captions appear beneath the figures. Text inside the original figures remains in English.

@@ -11,40 +11,48 @@ author_profile: true
 <h2 data-en="On this page" data-zh="本页目录">On this page</h2>
 <ul>
 {% for topic in site.data.research %}
-<li><a href="#{{ topic.id }}" data-en="{{ topic.nav_en | escape }}" data-zh="{{ topic.nav_zh | escape }}">{{ topic.nav_en | escape }}</a></li>
+<li><a href="#{{ topic.id }}"><span class="research-toc__number" aria-hidden="true">0{{ forloop.index }}</span><span data-en="{{ topic.nav_en | escape }}" data-zh="{{ topic.nav_zh | escape }}">{{ topic.nav_en | escape }}</span></a></li>
 {% endfor %}
 </ul>
 </nav>
 <div class="research-content">
 {% for topic in site.data.research %}
 <section class="research-topic" id="{{ topic.id }}" aria-labelledby="{{ topic.id }}-title">
+<header class="research-topic__header">
+<span class="research-topic__number" aria-hidden="true">0{{ forloop.index }}</span>
 <h2 id="{{ topic.id }}-title" data-en="{{ topic.title_en | escape }}" data-zh="{{ topic.title_zh | escape }}">{{ topic.title_en | escape }}</h2>
-<p data-en="{{ topic.intro_en | escape }}" data-zh="{{ topic.intro_zh | escape }}">{{ topic.intro_en | escape }}</p>
+</header>
+<p class="research-topic__intro" data-en="{{ topic.intro_en | escape }}" data-zh="{{ topic.intro_zh | escape }}">{{ topic.intro_en | escape }}</p>
 {% for project in topic.projects %}
 <article class="research-project">
-<h3 data-en="{{ project.title_en | escape }}" data-zh="{{ project.title_zh | escape }}">{{ project.title_en | escape }}</h3>
-<p data-en="{{ project.description_en | escape }}" data-zh="{{ project.description_zh | escape }}">{{ project.description_en | escape }}</p>
+<div class="research-project__body">
+<p class="research-project__category" data-en="{{ project.category_en | escape }}" data-zh="{{ project.category_zh | escape }}">{{ project.category_en | escape }}</p>
+<h3 data-en="{{ project.name_en | escape }}" data-zh="{{ project.name_zh | escape }}">{{ project.name_en | escape }}</h3>
+<p class="research-project__description" data-en="{{ project.description_en | escape }}" data-zh="{{ project.description_zh | escape }}">{{ project.description_en | escape }}</p>
+</div>
 {% if project.figure %}
 <figure class="research-figure">
-<a href="{{ project.figure.path | relative_url }}">
+<a class="research-figure__image" href="{{ project.figure.path | relative_url }}">
 <img src="{{ project.figure.path | relative_url }}" width="{{ project.figure.width }}" height="{{ project.figure.height }}" loading="lazy" decoding="async" alt="{{ project.figure.alt_en | escape }}" data-alt-en="{{ project.figure.alt_en | escape }}" data-alt-zh="{{ project.figure.alt_zh | escape }}">
 </a>
-<figcaption>
-<span data-en="{{ project.figure.caption_en | escape }}" data-zh="{{ project.figure.caption_zh | escape }}">{{ project.figure.caption_en | escape }}</span>
-<span class="research-figure__credit"><a href="{{ project.figure.source_url | escape }}" data-en="{{ project.figure.credit_en | escape }}" data-zh="{{ project.figure.credit_zh | escape }}">{{ project.figure.credit_en | escape }}</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · <span data-en="Original figure, unchanged. Click to enlarge." data-zh="原图未修改，点击可放大查看。">Original figure, unchanged. Click to enlarge.</span></span>
-</figcaption>
+<details class="research-figure__source">
+<summary><span aria-hidden="true">ⓘ</span><span class="visually-hidden" data-en="Image source and license" data-zh="图片来源与许可">Image source and license</span></summary>
+<div><a href="{{ project.figure.source_url | escape }}" data-en="{{ project.figure.credit_en | escape }}" data-zh="{{ project.figure.credit_zh | escape }}">{{ project.figure.credit_en | escape }}</a><a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div>
+</details>
 </figure>
 {% endif %}
-<h4 data-en="Related publications and resources" data-zh="相关论文与资源">Related publications and resources</h4>
+<div class="research-project__resources">
+<h4 data-en="Publications & code" data-zh="论文与代码">Publications &amp; code</h4>
 <ul class="research-resources">
 {% for paper_id in project.paper_ids %}
 {% assign paper = site.data.publications | where: 'id', paper_id | first %}
 <li>
-<a href="{{ paper.publisher_url | escape }}" lang="en">{{ paper.title | escape }}</a><span class="research-resource-year"> ({{ paper.year }})</span>
+<div class="research-resource__paper"><span class="research-resource-year">{{ paper.year }}</span><a href="{{ paper.publisher_url | escape }}" lang="en">{{ paper.title | escape }}</a></div>
 {% if paper.code_url %}<a class="research-code" href="{{ paper.code_url | escape }}"><i class="fa-solid fa-code" aria-hidden="true"></i> <span data-en="Code" data-zh="代码">Code</span></a>{% endif %}
 </li>
 {% endfor %}
 </ul>
+</div>
 </article>
 {% endfor %}
 </section>

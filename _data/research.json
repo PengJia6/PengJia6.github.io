@@ -15,7 +15,11 @@
         "description_zh": "MSIsensor-pro 支持全基因组、全外显子组和靶向测序数据，无需配对正常样本即可进行 MSI 检测。该方法通过对微卫星变异进行建模并筛选有效位点，实现仅使用肿瘤样本的分析。",
         "paper_ids": [
           "pub-1"
-        ]
+        ],
+        "name_en": "MSIsensor-pro",
+        "name_zh": "MSIsensor-pro",
+        "category_en": "DNA sequencing",
+        "category_zh": "DNA 测序"
       },
       {
         "title_en": "MSIsensor-RNA · MSI from gene expression",
@@ -31,12 +35,14 @@
           "height": 465,
           "alt_en": "MSIsensor-RNA workflow: microarray, RNA-seq, and single-cell RNA-seq data feed into preprocessing, gene selection, SVM training and testing to predict MSI status.",
           "alt_zh": "MSIsensor-RNA 流程：芯片、RNA-seq 和单细胞 RNA-seq 数据经过预处理、基因筛选、SVM 训练与测试，预测 MSI 状态。",
-          "caption_en": "MSIsensor-RNA workflow, from gene expression data to sample-level and cell-level MSI prediction.",
-          "caption_zh": "MSIsensor-RNA 分析流程：从基因表达数据到样本和细胞层面的 MSI 预测。",
           "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016039/#qzae004-F1",
           "credit_en": "Jia et al. (2024), Figure 1; © The Author(s).",
           "credit_zh": "Jia 等（2024），原文图 1；© 原文作者。"
-        }
+        },
+        "name_en": "MSIsensor-RNA",
+        "name_zh": "MSIsensor-RNA",
+        "category_en": "Gene expression",
+        "category_zh": "基因表达"
       }
     ]
   },
@@ -65,12 +71,14 @@
           "height": 971,
           "alt_en": "Chinese Quartet Figure 5: assembly, HiFi and Illumina variant calls are filtered and merged into tiered germline benchmarks, de novo and somatic calls, with distributions of variant characteristics.",
           "alt_zh": "Chinese Quartet 原文图 5：对组装、HiFi 和 Illumina 变异检测结果进行筛选与整合，建立分层的生殖系变异基准集，并展示新生变异、体细胞变异及变异特征分布。",
-          "caption_en": "Chinese Quartet variant benchmarks: construction, confidence tiers, and variant characteristics.",
-          "caption_zh": "Chinese Quartet 变异基准集：构建流程、置信度分层与变异特征。",
           "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10694985/#Fig5",
           "credit_en": "Jia et al. (2023), Figure 5; © The Author(s).",
           "credit_zh": "Jia 等（2023），原文图 5；© 原文作者。"
-        }
+        },
+        "name_en": "Chinese Quartet",
+        "name_zh": "Chinese Quartet",
+        "category_en": "Reference genomes & benchmarks",
+        "category_zh": "参考基因组与基准集"
       },
       {
         "title_en": "Challenging regions · Evaluating variant calls",
@@ -80,7 +88,11 @@
         "paper_ids": [
           "pub-19",
           "pub-7"
-        ]
+        ],
+        "name_en": "Challenging regions",
+        "name_zh": "复杂基因组区域",
+        "category_en": "Variant calling evaluation",
+        "category_zh": "变异检测评估"
       }
     ]
   }
