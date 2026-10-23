@@ -15,6 +15,9 @@
     document.querySelectorAll('[data-en][data-zh]').forEach(function (element) {
       element.textContent = element.getAttribute('data-' + next);
     });
+    document.querySelectorAll('[data-alt-en][data-alt-zh]').forEach(function (image) {
+      image.alt = image.getAttribute('data-alt-' + next);
+    });
     document.querySelectorAll('[data-language]').forEach(function (button) {
       if (button.tagName === 'BUTTON') button.setAttribute('aria-pressed', String(button.dataset.language === next));
     });

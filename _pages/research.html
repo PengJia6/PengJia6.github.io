@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Research"
+hide_title: true
 permalink: /research/
 author_profile: true
 ---
@@ -23,6 +24,17 @@ author_profile: true
 <article class="research-project">
 <h3 data-en="{{ project.title_en | escape }}" data-zh="{{ project.title_zh | escape }}">{{ project.title_en | escape }}</h3>
 <p data-en="{{ project.description_en | escape }}" data-zh="{{ project.description_zh | escape }}">{{ project.description_en | escape }}</p>
+{% if project.figure %}
+<figure class="research-figure">
+<a href="{{ project.figure.path | relative_url }}">
+<img src="{{ project.figure.path | relative_url }}" width="{{ project.figure.width }}" height="{{ project.figure.height }}" loading="lazy" decoding="async" alt="{{ project.figure.alt_en | escape }}" data-alt-en="{{ project.figure.alt_en | escape }}" data-alt-zh="{{ project.figure.alt_zh | escape }}">
+</a>
+<figcaption>
+<span data-en="{{ project.figure.caption_en | escape }}" data-zh="{{ project.figure.caption_zh | escape }}">{{ project.figure.caption_en | escape }}</span>
+<span class="research-figure__credit"><a href="{{ project.figure.source_url | escape }}" data-en="{{ project.figure.credit_en | escape }}" data-zh="{{ project.figure.credit_zh | escape }}">{{ project.figure.credit_en | escape }}</a> · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a> · <span data-en="Original figure, unchanged. Click to enlarge." data-zh="原图未修改，点击可放大查看。">Original figure, unchanged. Click to enlarge.</span></span>
+</figcaption>
+</figure>
+{% endif %}
 <h4 data-en="Related publications and resources" data-zh="相关论文与资源">Related publications and resources</h4>
 <ul class="research-resources">
 {% for paper_id in project.paper_ids %}

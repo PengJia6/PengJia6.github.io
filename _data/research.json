@@ -13,14 +13,30 @@
         "title_zh": "MSIsensor-pro · 基于 DNA 的 MSI 检测",
         "description_en": "MSIsensor-pro detects MSI from whole-genome, whole-exome, and targeted sequencing data without requiring a matched normal sample. The method models microsatellite variation and selects informative sites for tumor-only analysis.",
         "description_zh": "MSIsensor-pro 支持全基因组、全外显子组和靶向测序数据，无需配对正常样本即可进行 MSI 检测。该方法通过对微卫星变异进行建模并筛选有效位点，实现仅使用肿瘤样本的分析。",
-        "paper_ids": ["pub-1"]
+        "paper_ids": [
+          "pub-1"
+        ]
       },
       {
         "title_en": "MSIsensor-RNA · MSI from gene expression",
         "title_zh": "MSIsensor-RNA · 基于基因表达的 MSI 检测",
         "description_en": "MSIsensor-RNA estimates MSI using the expression of MSI-associated genes. It supports bulk and single-cell gene expression data, extending MSI analysis to transcriptomic datasets.",
         "description_zh": "MSIsensor-RNA 利用 MSI 相关基因的表达信息评估微卫星不稳定性，支持群体和单细胞基因表达数据，将 MSI 分析扩展到转录组数据。",
-        "paper_ids": ["pub-13"]
+        "paper_ids": [
+          "pub-13"
+        ],
+        "figure": {
+          "path": "/images/research/msisensor-rna-workflow.jpg",
+          "width": 679,
+          "height": 465,
+          "alt_en": "MSIsensor-RNA workflow: microarray, RNA-seq, and single-cell RNA-seq data feed into preprocessing, gene selection, SVM training and testing to predict MSI status.",
+          "alt_zh": "MSIsensor-RNA 流程：芯片、RNA-seq 和单细胞 RNA-seq 数据经过预处理、基因筛选、SVM 训练与测试，预测 MSI 状态。",
+          "caption_en": "MSIsensor-RNA workflow, from gene expression data to sample-level and cell-level MSI prediction.",
+          "caption_zh": "MSIsensor-RNA 分析流程：从基因表达数据到样本和细胞层面的 MSI 预测。",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12016039/#qzae004-F1",
+          "credit_en": "Jia et al. (2024), Figure 1; © The Author(s).",
+          "credit_zh": "Jia 等（2024），原文图 1；© 原文作者。"
+        }
       }
     ]
   },
@@ -38,14 +54,33 @@
         "title_zh": "Chinese Quartet · 基因组组装与参考资源",
         "description_en": "The Chinese Quartet work combines haplotype-resolved genome assemblies with variant benchmarks and family-based reference resources. Related work includes a telomere-to-telomere diploid reference genome, providing complementary resources for genome analysis and method evaluation.",
         "description_zh": "Chinese Quartet 相关研究结合单倍型分辨的基因组组装、变异基准数据集和家系参考资源，并进一步构建端粒到端粒的二倍体参考基因组，为基因组分析和方法评估提供互补资源。",
-        "paper_ids": ["pub-16", "pub-10", "pub-6"]
+        "paper_ids": [
+          "pub-16",
+          "pub-10",
+          "pub-6"
+        ],
+        "figure": {
+          "path": "/images/research/chinese-quartet-benchmark.jpg",
+          "width": 708,
+          "height": 971,
+          "alt_en": "Chinese Quartet Figure 5: assembly, HiFi and Illumina variant calls are filtered and merged into tiered germline benchmarks, de novo and somatic calls, with distributions of variant characteristics.",
+          "alt_zh": "Chinese Quartet 原文图 5：对组装、HiFi 和 Illumina 变异检测结果进行筛选与整合，建立分层的生殖系变异基准集，并展示新生变异、体细胞变异及变异特征分布。",
+          "caption_en": "Chinese Quartet variant benchmarks: construction, confidence tiers, and variant characteristics.",
+          "caption_zh": "Chinese Quartet 变异基准集：构建流程、置信度分层与变异特征。",
+          "source_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10694985/#Fig5",
+          "credit_en": "Jia et al. (2023), Figure 5; © The Author(s).",
+          "credit_zh": "Jia 等（2023），原文图 5；© 原文作者。"
+        }
       },
       {
         "title_en": "Challenging regions · Evaluating variant calls",
         "title_zh": "复杂基因组区域 · 变异检测评估",
         "description_en": "This work examines SNV calling in the flanks of structural variants and compares structural variant detection from long reads and long-read assemblies. The aim is to understand how genomic context and analysis strategy affect variant calling performance.",
         "description_zh": "这一方向关注结构变异侧翼区域的单核苷酸变异（SNV）检测，以及基于长读长与长读长组装的结构变异检测方法比较，旨在理解基因组背景和分析策略对变异检测性能的影响。",
-        "paper_ids": ["pub-19", "pub-7"]
+        "paper_ids": [
+          "pub-19",
+          "pub-7"
+        ]
       }
     ]
   }

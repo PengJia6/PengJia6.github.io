@@ -12,6 +12,11 @@
 .research-resources li { margin: .65rem 0; overflow-wrap: anywhere; }
 .research-resource-year { white-space: nowrap; }
 .research-code { display: inline-block; margin-left: .5rem; white-space: nowrap; }
+.research-figure { margin: 1.25rem 0; }
+.research-figure > a { display: block; padding: .65rem; background: #fff; border: 1px solid var(--global-border-color); border-radius: 6px; }
+.research-figure img { display: block; width: 100%; max-width: 100%; height: auto; margin: 0 auto; }
+.research-figure figcaption { margin-top: .65rem; font-size: .75rem; line-height: 1.65; }
+.research-figure__credit { display: block; margin-top: .3rem; font-size: .7rem; }
 .research-toc { grid-column: 2; grid-row: 1; position: sticky; top: 6rem; border-left: 1px solid var(--global-border-color); padding-left: .8rem; }
 .research-toc h2 { font-size: .8rem; margin: 0 0 .5rem; }
 .research-toc ul { list-style: none; padding: 0; margin: 0; }
