@@ -56,7 +56,7 @@
     "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:42010932%20AND%20SRC:MED&format=json",
     "pubmed_citations": 0,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=42010932"
   },
   {
@@ -138,7 +138,7 @@
     "code_source": "https://www.nature.com/articles/s41592-026-03036-7",
     "pubmed_citations": 11,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=41820667"
   },
   {
@@ -285,7 +285,7 @@
     "code_source": "https://academic.oup.com/gpb/article-abstract/23/6/qzaf118/8343641",
     "pubmed_citations": 2,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=41298323"
   },
   {
@@ -379,7 +379,7 @@
     "code_source": "https://doi.org/10.1093/gpbjnl/qzaf061",
     "pubmed_citations": 0,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=40685638"
   },
   {
@@ -457,7 +457,7 @@
     "code_source": "https://www.cell.com/cell-genomics/fulltext/S2666-979X(25)00027-8",
     "pubmed_citations": 6,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=39947134"
   },
   {
@@ -513,7 +513,7 @@
     "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:39918981%20AND%20SRC:MED&format=json",
     "pubmed_citations": 19,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=39918981"
   },
   {
@@ -583,7 +583,7 @@
     "code_source": "https://www.nature.com/articles/s41587-024-02190-7",
     "pubmed_citations": 18,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38519720"
   },
   {
@@ -637,7 +637,7 @@
     "code_source": "https://academic.oup.com/gpb/article-abstract/22/3/qzae004/7515254",
     "pubmed_citations": 6,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=39341794"
   },
   {
@@ -688,7 +688,7 @@
     "code_source": "https://academic.oup.com/gpb/article-abstract/22/1/qzae008/7585463",
     "pubmed_citations": 0,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38862430"
   },
   {
@@ -814,7 +814,7 @@
     "code_source": "https://link.springer.com/article/10.1186/s13059-023-03116-3",
     "pubmed_citations": 8,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38049885"
   },
   {
@@ -984,7 +984,7 @@
     "code_source": "https://link.springer.com/article/10.1186/s13059-023-03109-2",
     "pubmed_citations": 19,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38012772"
   },
   {
@@ -1034,7 +1034,7 @@
     "code_source": "https://academic.oup.com/bib/article-abstract/24/4/bbad188/7169138",
     "pubmed_citations": 12,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=37200087"
   },
   {
@@ -1102,7 +1102,7 @@
     "metadata_source": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:38933383%20AND%20SRC:MED&format=json",
     "pubmed_citations": 11,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=38933383"
   },
   {
@@ -1176,7 +1176,7 @@
     "code_source": "https://www.nature.com/articles/s41592-022-01609-w",
     "pubmed_citations": 62,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=36109679"
   },
   {
@@ -1234,7 +1234,7 @@
     "code_source": "https://advanced.onlinelibrary.wiley.com/doi/abs/10.1002/advs.202202149",
     "pubmed_citations": 3,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=36039936"
   },
   {
@@ -1312,7 +1312,7 @@
     "code_source": "https://academic.oup.com/gpb/article-abstract/20/1/4/7230403",
     "pubmed_citations": 107,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=34487862"
   },
   {
@@ -1390,7 +1390,7 @@
     "code_source": "https://www.nature.com/articles/s41467-021-26330-8",
     "pubmed_citations": 59,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=34654815"
   },
   {
@@ -1448,7 +1448,7 @@
     "code_source": "https://onlinelibrary.wiley.com/doi/abs/10.1007/s40484-020-0215-4",
     "pubmed_citations": 5,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=32923014"
   },
   {
@@ -1514,7 +1514,7 @@
     "code_source": "https://academic.oup.com/gpb/article-abstract/18/1/65/7229842",
     "pubmed_citations": 78,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=32171661"
   },
   {
@@ -1572,7 +1572,7 @@
     "code_source": "https://academic.oup.com/bioinformatics/article-abstract/35/24/5298/5531131",
     "pubmed_citations": 6,
     "pubmed_citations_status": "ok",
-    "pubmed_citations_checked": "2026-10-22",
+    "pubmed_citations_checked": "2026-10-26",
     "pubmed_citations_source": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&db=pubmed&linkname=pubmed_pubmed_citedin&id=31297508"
   }
 ]
