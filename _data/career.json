@@ -31,8 +31,18 @@
       "institution_zh": "西安交通大学，第一附属医院，MED-X研究院",
       "url": "https://www.jdyfy.com/",
       "logos": [
-        "/images/institutions/xjtu-first-hospital.png",
-        "/images/institutions/xjtu.png"
+        {
+          "path": "/images/institutions/xjtu-first-hospital.png",
+          "url": "https://www.jdyfy.com/",
+          "name_en": "The First Affiliated Hospital of Xi'an Jiaotong University",
+          "name_zh": "西安交通大学第一附属医院"
+        },
+        {
+          "path": "/images/institutions/xjtu.png",
+          "url": "https://www.xjtu.edu.cn/",
+          "name_en": "Xi'an Jiaotong University",
+          "name_zh": "西安交通大学"
+        }
       ],
       "dates_en": "Jun 2024 – Present",
       "dates_zh": "2024年6月 – 至今",
