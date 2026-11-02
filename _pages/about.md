@@ -12,13 +12,11 @@ I am Peng Jia (贾鹏), a researcher at the First Affiliated Hospital of Xi'an J
 
 ## Education
 
-- **Sep 2017 – Dec 2023:** Ph.D. in Control Science and Engineering (integrated master's–doctoral program), School of Automation Science and Engineering, Xi'an Jiaotong University.
-- **Sep 2013 – Jun 2017:** Bachelor's degree in Automation, School of Automation, Chongqing University.
+{% include career-list.html kind="education" language="en" %}
 
 ## Work Experience
 
-- **Jun 2024 – Present:** Assistant Research Fellow, The First Affiliated Hospital of Xi'an Jiaotong University.
-- **Jun 2024 – Present:** Postdoctoral Researcher in Clinical Medicine, Xi'an Jiaotong University.
+{% include career-list.html kind="work" language="en" %}
 
 ## Research interests
 
@@ -35,13 +33,11 @@ I am Peng Jia (贾鹏), a researcher at the First Affiliated Hospital of Xi'an J
 
 ## 教育经历
 
-- **2017年9月 – 2023年12月：** 西安交通大学自动化科学与技术学院，控制科学与工程专业，硕博连读，获博士学位。
-- **2013年9月 – 2017年6月：** 重庆大学自动化学院，自动化专业，获学士学位。
+{% include career-list.html kind="education" language="zh" %}
 
 ## 工作经历
 
-- **2024年6月 – 至今：** 西安交通大学第一附属医院，助理研究员。
-- **2024年6月 – 至今：** 西安交通大学，临床医学博士后。
+{% include career-list.html kind="work" language="zh" %}
 
 ## 研究方向
 

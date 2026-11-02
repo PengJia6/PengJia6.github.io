@@ -1,0 +1,50 @@
+{
+  "education": [
+    {
+      "institution_en": "Xi'an Jiaotong University",
+      "institution_zh": "西安交通大学",
+      "url": "https://www.xjtu.edu.cn/",
+      "logo": "/images/institutions/xjtu.png",
+      "dates_en": "Sep 2017 – Dec 2023",
+      "dates_zh": "2017年9月 – 2023年12月",
+      "role_en": "Ph.D. in Control Science and Engineering",
+      "role_zh": "控制科学与工程博士",
+      "detail_en": "School of Automation Science and Engineering · Integrated master's–doctoral program",
+      "detail_zh": "自动化科学与技术学院 · 硕博连读"
+    },
+    {
+      "institution_en": "Chongqing University",
+      "institution_zh": "重庆大学",
+      "url": "https://www.cqu.edu.cn/",
+      "logo": "/images/institutions/cqu.png",
+      "dates_en": "Sep 2013 – Jun 2017",
+      "dates_zh": "2013年9月 – 2017年6月",
+      "role_en": "Bachelor's degree in Automation",
+      "role_zh": "自动化学士",
+      "detail_en": "School of Automation",
+      "detail_zh": "自动化学院"
+    }
+  ],
+  "work": [
+    {
+      "institution_en": "The First Affiliated Hospital of Xi'an Jiaotong University",
+      "institution_zh": "西安交通大学第一附属医院",
+      "url": "https://www.jdyfy.com/",
+      "icon": "fa-hospital",
+      "dates_en": "Jun 2024 – Present",
+      "dates_zh": "2024年6月 – 至今",
+      "role_en": "Assistant Research Fellow",
+      "role_zh": "助理研究员"
+    },
+    {
+      "institution_en": "Xi'an Jiaotong University",
+      "institution_zh": "西安交通大学",
+      "url": "https://www.xjtu.edu.cn/",
+      "logo": "/images/institutions/xjtu.png",
+      "dates_en": "Jun 2024 – Present",
+      "dates_zh": "2024年6月 – 至今",
+      "role_en": "Postdoctoral Researcher in Clinical Medicine",
+      "role_zh": "临床医学博士后"
+    }
+  ]
+}
