@@ -6,14 +6,14 @@
 <ul class="career-list">
 {% for entry in career_items %}
 <li class="career-entry">
-<div class="career-entry__logo" aria-hidden="true">
-{% if entry.logo %}<img src="{{ entry.logo | relative_url }}" alt="" width="56" height="56" loading="lazy" decoding="async">{% else %}<i class="fa-solid {{ entry.icon }}" aria-hidden="true"></i>{% endif %}
-</div>
 <div class="career-entry__content">
 <p class="career-entry__dates">{{ entry[dates_key] | escape }}</p>
 <a class="career-entry__institution" href="{{ entry.url | escape }}">{{ entry[institution_key] | escape }}</a>
 <p class="career-entry__role">{{ entry[role_key] | escape }}</p>
 {% if entry[detail_key] %}<p class="career-entry__detail">{{ entry[detail_key] | escape }}</p>{% endif %}
+</div>
+<div class="career-entry__logo" aria-hidden="true">
+{% if entry.logo %}<img src="{{ entry.logo | relative_url }}" alt="" width="56" height="56" loading="lazy" decoding="async">{% else %}<i class="fa-solid {{ entry.icon }}" aria-hidden="true"></i>{% endif %}
 </div>
 </li>
 {% endfor %}
