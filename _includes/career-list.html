@@ -12,8 +12,14 @@
 <p class="career-entry__role">{{ entry[role_key] | escape }}</p>
 {% if entry[detail_key] %}<p class="career-entry__detail">{{ entry[detail_key] | escape }}</p>{% endif %}
 </div>
-<div class="career-entry__logo" aria-hidden="true">
-{% if entry.logo %}<img src="{{ entry.logo | relative_url }}" alt="" width="56" height="56" loading="lazy" decoding="async">{% else %}<i class="fa-solid {{ entry.icon }}" aria-hidden="true"></i>{% endif %}
+<div class="career-entry__logos" aria-hidden="true">
+{% if entry.logos %}
+{% for logo in entry.logos %}
+<div class="career-entry__logo"><img src="{{ logo | relative_url }}" alt="" width="56" height="56" loading="lazy" decoding="async"></div>
+{% endfor %}
+{% else %}
+<div class="career-entry__logo"><img src="{{ entry.logo | relative_url }}" alt="" width="56" height="56" loading="lazy" decoding="async"></div>
+{% endif %}
 </div>
 </li>
 {% endfor %}
