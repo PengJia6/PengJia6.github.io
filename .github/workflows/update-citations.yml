@@ -1,4 +1,4 @@
-name: Update publication citations
+name: Update publications and citations
 
 on:
   schedule:
@@ -8,8 +8,8 @@ on:
   push:
     branches: [master]
     paths:
-      - scripts/update_citations.py
-      - scripts/test_update_citations.py
+      - scripts/*.py
+      - _data/publication_sources.json
       - .github/workflows/update-citations.yml
 
 permissions:
@@ -31,11 +31,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
-      - name: Test citation parsers and failure preservation
-        run: python -m unittest discover -s scripts -p 'test_update_citations.py'
-      - name: Refresh source snapshots
-        run: python scripts/update_citations.py
-      - name: Commit refreshed citations
+      - name: Test publication discovery and citation refresh
+        run: python -m unittest discover -s scripts -p 'test_*.py'
+      - name: Discover publications and refresh citations
+        run: python scripts/update_publications.py
+      - name: Commit refreshed publications
         id: commit
         shell: bash
         run: |
@@ -46,7 +46,7 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add _data/publications.json
-          git commit -m 'Refresh publication citation snapshots'
+          git commit -m 'Sync publications and citation snapshots'
           git push origin HEAD:master
           echo 'changed=true' >> "$GITHUB_OUTPUT"
       # A GITHUB_TOKEN push does not trigger the normal Pages build.

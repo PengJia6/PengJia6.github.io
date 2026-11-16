@@ -7,6 +7,7 @@ import os
 from pathlib import Path
 import time
 from urllib.parse import parse_qs, urlparse
+from urllib.error import HTTPError
 from urllib.request import ProxyHandler, Request, build_opener
 import xml.etree.ElementTree as ET
 from zoneinfo import ZoneInfo
@@ -72,16 +73,19 @@ def parse_pubmed(raw, pmid):
     return len(ids)
 
 
-def request_bytes(opener, url):
+def request_bytes(opener, url, headers=None):
     for attempt in range(3):
         try:
-            request = Request(url, headers={'User-Agent': 'PengJiaHomepage-CitationUpdater/1.0'})
+            request = Request(url, headers={'User-Agent': 'PengJiaHomepage-PublicationUpdater/1.0',
+                                            **(headers or {})})
             with opener.open(request, timeout=30) as response:
                 raw = response.read(5_000_001)
             if len(raw) > 5_000_000:
                 raise ValueError('Response exceeds size limit')
             return raw
-        except Exception:
+        except Exception as error:
+            if isinstance(error, HTTPError) and error.code not in (429, 500, 502, 503, 504):
+                raise
             if attempt == 2:
                 raise
             time.sleep(2 ** attempt)
@@ -96,7 +100,9 @@ def update(papers, opener, today, sources):
         try:
             rows = parse_scholar(request_bytes(opener, url))
             for paper in papers:
-                key = parse_qs(urlparse(paper['scholar_url']).query)['citation_for_view'][0]
+                key = parse_qs(urlparse(paper.get('scholar_url') or '').query).get('citation_for_view', [None])[0]
+                if not key:
+                    continue
                 if key not in rows:
                     warnings.append('Scholar record missing: ' + paper['id'])
                     continue
